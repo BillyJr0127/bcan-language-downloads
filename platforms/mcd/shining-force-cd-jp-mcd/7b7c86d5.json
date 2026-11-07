@@ -1,0 +1,34 @@
+{
+  "game_id": "shining-force-cd-jp-mcd",
+  "platform": "mcd",
+  "title": "光明與黑暗 CD（Shining Force CD）",
+  "status": "available-for-testing",
+  "rom": "7b7c86d59b21f350f7f6ec1b65968c577c5daf0411c616e965843c4bb315d5f0",
+  "roms": [
+    "7b7c86d59b21f350f7f6ec1b65968c577c5daf0411c616e965843c4bb315d5f0"
+  ],
+  "version": "2ca2c5d54be2ea4f",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 2434,
+  "segments": 5211,
+  "tag": "pack-shining-force-cd-jp-mcd-7b7c86d5-2ca2c5d54be2ea4f",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-shining-force-cd-jp-mcd-7b7c86d5-2ca2c5d54be2ea4f/shining-force-cd-jp-mcd-7b7c86d5-2ca2c5d54be2ea4f.zip",
+  "bytes": 789739,
+  "sha256": "83c878b2ecd3935228503e1ffa1bfa1e4f15e945b07f5e268f64290e0aed6b56",
+  "files": [
+    {
+      "name": "shining-force-cd-jp-mcd.system.bcan",
+      "bytes": 5629344,
+      "sha256": "d8098ad9c9a52f7292f3801e9947887ba1794c094ca53c10721c1eb931322445"
+    },
+    {
+      "name": "shining-force-cd-jp-mcd.tw.txt",
+      "bytes": 109865,
+      "sha256": "ced7d91483b5f775ca9b8bc042f79c5734fa4a147007ec1b4a98ca10466bd125"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

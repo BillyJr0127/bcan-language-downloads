@@ -1,0 +1,34 @@
+{
+  "game_id": "zelda-no-densetsu-jp-fds",
+  "platform": "fds",
+  "title": "薩爾達傳說（FDS）",
+  "status": "available-for-testing",
+  "rom": "0bf24b1eed04173a6f4bb3dc6359e67efbc599d16cc1b0a00108dc4a6a19a2b4",
+  "roms": [
+    "0bf24b1eed04173a6f4bb3dc6359e67efbc599d16cc1b0a00108dc4a6a19a2b4"
+  ],
+  "version": "20777e3c92e03c55",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 125,
+  "segments": 154,
+  "tag": "pack-zelda-no-densetsu-jp-fds-0bf24b1e-20777e3c92e03c55",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-zelda-no-densetsu-jp-fds-0bf24b1e-20777e3c92e03c55/zelda-no-densetsu-jp-fds-0bf24b1e-20777e3c92e03c55.zip",
+  "bytes": 44907,
+  "sha256": "873cab97d14de65d48fa86a3ee3b426270fda9276ff6a905506a5ba4e73e4af8",
+  "files": [
+    {
+      "name": "zelda-no-densetsu-jp-fds.system.bcan",
+      "bytes": 271702,
+      "sha256": "bf5d94057940f5acfc04ae0a780f6bbc616b04c0ef543195ddeee37fb8980d3a"
+    },
+    {
+      "name": "zelda-no-densetsu-jp-fds.tw.txt",
+      "bytes": 3136,
+      "sha256": "d24bf934bec553c411cadb50658c41c493da5265fcd4f8df759282533c2aa46a"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

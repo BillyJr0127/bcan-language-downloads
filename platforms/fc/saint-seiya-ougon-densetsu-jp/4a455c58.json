@@ -1,0 +1,34 @@
+{
+  "game_id": "saint-seiya-ougon-densetsu-jp",
+  "platform": "fc",
+  "title": "聖鬥士星矢：黃金傳說",
+  "status": "available-for-testing",
+  "rom": "4a455c581737c16335a8d83fc9fc623d9f6fe0933b887df1169655f307d66a3c",
+  "roms": [
+    "4a455c581737c16335a8d83fc9fc623d9f6fe0933b887df1169655f307d66a3c"
+  ],
+  "version": "58f41706e538fa39",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 455,
+  "segments": 1253,
+  "tag": "pack-saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39/saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39.zip",
+  "bytes": 128305,
+  "sha256": "54b19d25245999e155b4a3913ecdd90167072aab35f13a216f4d08330574f5bf",
+  "files": [
+    {
+      "name": "saint-seiya-ougon-densetsu-jp.system.bcan",
+      "bytes": 977548,
+      "sha256": "4b34d2835a03a8071f36ba5273bc38fca1f510860bde909bdf116accd32b2766"
+    },
+    {
+      "name": "saint-seiya-ougon-densetsu-jp.tw.txt",
+      "bytes": 18668,
+      "sha256": "830dae1f833d40678ba230259eb8d0f3dfe8d67f49ef1095d5941ae176938579"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

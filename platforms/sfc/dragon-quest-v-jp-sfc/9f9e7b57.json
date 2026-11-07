@@ -1,0 +1,40 @@
+{
+  "game_id": "dragon-quest-v-jp-sfc",
+  "platform": "sfc",
+  "title": "勇者鬥惡龍 V",
+  "status": "available-for-testing",
+  "rom": "9f9e7b578137a515589d832885dc7d8211feec6888e83550886ff09ada8f448b",
+  "roms": [
+    "9f9e7b578137a515589d832885dc7d8211feec6888e83550886ff09ada8f448b"
+  ],
+  "version": "b2fef3b061c31f64",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 4651,
+  "segments": 14691,
+  "tag": "pack-dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64/dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64.zip",
+  "bytes": 2381794,
+  "sha256": "6a5df46b256f7ea09c87c2bf387aa2e742e4792ebed512765ab004857820c4b1",
+  "files": [
+    {
+      "name": "dragon-quest-v-jp-sfc.hk.txt",
+      "bytes": 323835,
+      "sha256": "387cd3a767c239e0ae4327dac0b861d40ac47db27f9f223577bccd5b649ce53c"
+    },
+    {
+      "name": "dragon-quest-v-jp-sfc.system.bcan",
+      "bytes": 15471505,
+      "sha256": "bb06acd2b986624601f6db7fc94eaf4ff1d891349cfe763f458232a6097c35d5"
+    },
+    {
+      "name": "dragon-quest-v-jp-sfc.tw.txt",
+      "bytes": 330445,
+      "sha256": "8f49a4bbc7fea9e6b0251589c9fb6855a709bf92bf575736d042277eb95137d1"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

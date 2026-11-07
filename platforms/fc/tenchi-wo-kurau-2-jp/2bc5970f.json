@@ -1,0 +1,36 @@
+{
+  "game_id": "tenchi-wo-kurau-2-jp",
+  "platform": "fc",
+  "title": "吞食天地二：諸葛孔明傳",
+  "status": "available-for-testing",
+  "rom": "2bc5970f8e2b6ddd0172e900b78d5234ed1919954cf00434a86ca18166a6f4bf",
+  "roms": [
+    "2bc5970f8e2b6ddd0172e900b78d5234ed1919954cf00434a86ca18166a6f4bf",
+    "595f80febfc53a7a3698b5f5a98f565d800fd7bb87fbb5e62cf5bc16c628f968",
+    "cf698e3f62a9fae73defd900f7c84e8f983117f4c82461d54b5510357d74269a"
+  ],
+  "version": "d7e26c69fe89b5f5",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 2121,
+  "segments": 6394,
+  "tag": "pack-tenchi-wo-kurau-2-jp-2bc5970f-d7e26c69fe89b5f5",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-tenchi-wo-kurau-2-jp-2bc5970f-d7e26c69fe89b5f5/tenchi-wo-kurau-2-jp-2bc5970f-d7e26c69fe89b5f5.zip",
+  "bytes": 2208343,
+  "sha256": "4926c2626da39e39709295104d5d53bd30e1e71f912c0b73bd8a8e6d0f5678b2",
+  "files": [
+    {
+      "name": "tenchi-wo-kurau-2-jp.system.bcan",
+      "bytes": 15913372,
+      "sha256": "e33bfa3aa992c98dcdca15e4d6f96e64c2d66a22513761b045818703fd08f009"
+    },
+    {
+      "name": "tenchi-wo-kurau-2-jp.tw.txt",
+      "bytes": 118349,
+      "sha256": "b6b13931cbc4955d3420f24af4f9772ac25bc0f8e7df5bc260e005590512deb1"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

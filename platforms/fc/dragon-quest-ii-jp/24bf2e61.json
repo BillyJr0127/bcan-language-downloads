@@ -1,0 +1,40 @@
+{
+  "game_id": "dragon-quest-ii-jp",
+  "platform": "fc",
+  "title": "勇者鬥惡龍 II",
+  "status": "available-for-testing",
+  "rom": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d",
+  "roms": [
+    "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d"
+  ],
+  "version": "a4871d6852b2d486",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 784,
+  "segments": 1624,
+  "tag": "pack-dragon-quest-ii-jp-24bf2e61-a4871d6852b2d486",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-ii-jp-24bf2e61-a4871d6852b2d486/dragon-quest-ii-jp-24bf2e61-a4871d6852b2d486.zip",
+  "bytes": 251777,
+  "sha256": "087a49e6917a69b9b03c03a4066783bfda6eb74a3c467e1ea5c957cda50bcb20",
+  "files": [
+    {
+      "name": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d.hk.txt",
+      "bytes": 33445,
+      "sha256": "8c3d549275d3b5ff9096b6598785ef98d95a9cc2713f0d25d42e7a918a5efe12"
+    },
+    {
+      "name": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d.system.bcan",
+      "bytes": 2048493,
+      "sha256": "cc914263f2743b580a74ccf396af4f780dc2c82db6700a5237b67fca6874cc55"
+    },
+    {
+      "name": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d.tw.txt",
+      "bytes": 33877,
+      "sha256": "28d03180ae8544310af6547034a3d5b2348d4eb880e53f20fdf26e95dc918066"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

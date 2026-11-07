@@ -1,0 +1,40 @@
+{
+  "game_id": "gg-ensei-jashin",
+  "platform": "gg",
+  "title": "GG 遠征・邪神之國",
+  "status": "available-for-testing",
+  "rom": "a49ff5f30c62dcc99f9cbd8be28627ee10d8c4133cf94d80af5e614b1db342b8",
+  "roms": [
+    "a49ff5f30c62dcc99f9cbd8be28627ee10d8c4133cf94d80af5e614b1db342b8"
+  ],
+  "version": "08cc0e2c634d5c55",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 1014,
+  "segments": 1864,
+  "tag": "pack-gg-ensei-jashin-a49ff5f3-08cc0e2c634d5c55",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-ensei-jashin-a49ff5f3-08cc0e2c634d5c55/gg-ensei-jashin-a49ff5f3-08cc0e2c634d5c55.zip",
+  "bytes": 425236,
+  "sha256": "65ed2a4e7004cd3b0854ce1e4465486eae0c3a5094a3f37605eed8152e13349e",
+  "files": [
+    {
+      "name": "gg-ensei-jashin.hk.txt",
+      "bytes": 38302,
+      "sha256": "587dc49053666578201247d5244b91c16c315c03bdf40bd8ff7b7a7ae67a9dcd"
+    },
+    {
+      "name": "gg-ensei-jashin.system.bcan",
+      "bytes": 2393343,
+      "sha256": "818beeda4783bd704f6f593ac07a2655bb95ab14974d33f7cdb7ddc51e6964f1"
+    },
+    {
+      "name": "gg-ensei-jashin.tw.txt",
+      "bytes": 38788,
+      "sha256": "5dcc5c8993f27bebcd401c2363e7f4818bab9a7715109e59339a9775e10b9f56"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

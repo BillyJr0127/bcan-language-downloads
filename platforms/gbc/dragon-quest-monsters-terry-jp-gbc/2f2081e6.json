@@ -1,0 +1,34 @@
+{
+  "game_id": "dragon-quest-monsters-terry-jp-gbc",
+  "platform": "gbc",
+  "title": "勇者鬥惡龍怪獸仙境：泰瑞仙境",
+  "status": "available-for-testing",
+  "rom": "2f2081e6907ae0ac5d171ceb977b5367fc6c5842b0eb73528733a7fa1e42d55b",
+  "roms": [
+    "2f2081e6907ae0ac5d171ceb977b5367fc6c5842b0eb73528733a7fa1e42d55b"
+  ],
+  "version": "35e8984e5189cf10",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 6831,
+  "segments": 6810,
+  "tag": "pack-dragon-quest-monsters-terry-jp-gbc-2f2081e6-35e8984e5189cf10",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-monsters-terry-jp-gbc-2f2081e6-35e8984e5189cf10/dragon-quest-monsters-terry-jp-gbc-2f2081e6-35e8984e5189cf10.zip",
+  "bytes": 1324375,
+  "sha256": "e46e1e4a66c84f49257604bf00f8d8831f8389195ba43d23dffb1ec504ba86c6",
+  "files": [
+    {
+      "name": "dragon-quest-monsters-terry-jp-gbc.system.bcan",
+      "bytes": 12032597,
+      "sha256": "4f996a4c766c18de408c214aaaa315dba14491eb79f71473d0c55e21ff9df235"
+    },
+    {
+      "name": "dragon-quest-monsters-terry-jp-gbc.tw.txt",
+      "bytes": 169109,
+      "sha256": "2bd0a3508cd902b154d415ccb15658f4a9b62beaef22aadaca8d4533eefd276d"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

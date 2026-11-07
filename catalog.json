@@ -1,0 +1,1338 @@
+{
+  "schema": "bcan-downloads/1",
+  "platforms": {
+    "fc": "任天堂紅白機",
+    "fds": "任天堂 FDS",
+    "sfc": "超級任天堂",
+    "gb": "Game Boy",
+    "gbc": "Game Boy Color",
+    "sms": "SEGA Master System",
+    "gg": "SEGA Game Gear",
+    "md": "SEGA Mega Drive",
+    "mcd": "SEGA Mega CD",
+    "pce": "PC Engine",
+    "pcecd": "PC Engine CD",
+    "acan": "A’Can"
+  },
+  "packages": [
+    {
+      "game_id": "bahamut-lagoon-jp-sfc",
+      "platform": "sfc",
+      "title": "神龍奇兵（Bahamut Lagoon）",
+      "status": "available-for-testing",
+      "rom": "093ad75b0bf11223a69ddf35f0b442e1ca9d92f5c75acef94ab14cfed16d8673",
+      "roms": [
+        "093ad75b0bf11223a69ddf35f0b442e1ca9d92f5c75acef94ab14cfed16d8673"
+      ],
+      "version": "efa371a801269368",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 4553,
+      "segments": 12705,
+      "tag": "pack-bahamut-lagoon-jp-sfc-093ad75b-efa371a801269368",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-bahamut-lagoon-jp-sfc-093ad75b-efa371a801269368/bahamut-lagoon-jp-sfc-093ad75b-efa371a801269368.zip",
+      "bytes": 1364910,
+      "sha256": "18e3fcf4268c10e81dd7cd2cc0e860918f6b4ea5ed8ebe122d72a8a10b67674d",
+      "files": [
+        {
+          "name": "bahamut-lagoon-jp-sfc.system.bcan",
+          "bytes": 9564724,
+          "sha256": "93c61c56d200429e7fd7ab60f7f92bfec8a7c4542bfd7267688c9b41e9aea076"
+        },
+        {
+          "name": "bahamut-lagoon-jp-sfc.tw.txt",
+          "bytes": 297411,
+          "sha256": "056d63c618494cc219dbde1d5137ccf6fe0397a5acb1d04f7ed15ceb9bc702fb"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "zelda-no-densetsu-jp-fds",
+      "platform": "fds",
+      "title": "薩爾達傳說（FDS）",
+      "status": "available-for-testing",
+      "rom": "0bf24b1eed04173a6f4bb3dc6359e67efbc599d16cc1b0a00108dc4a6a19a2b4",
+      "roms": [
+        "0bf24b1eed04173a6f4bb3dc6359e67efbc599d16cc1b0a00108dc4a6a19a2b4"
+      ],
+      "version": "20777e3c92e03c55",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 125,
+      "segments": 154,
+      "tag": "pack-zelda-no-densetsu-jp-fds-0bf24b1e-20777e3c92e03c55",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-zelda-no-densetsu-jp-fds-0bf24b1e-20777e3c92e03c55/zelda-no-densetsu-jp-fds-0bf24b1e-20777e3c92e03c55.zip",
+      "bytes": 44907,
+      "sha256": "873cab97d14de65d48fa86a3ee3b426270fda9276ff6a905506a5ba4e73e4af8",
+      "files": [
+        {
+          "name": "zelda-no-densetsu-jp-fds.system.bcan",
+          "bytes": 271702,
+          "sha256": "bf5d94057940f5acfc04ae0a780f6bbc616b04c0ef543195ddeee37fb8980d3a"
+        },
+        {
+          "name": "zelda-no-densetsu-jp-fds.tw.txt",
+          "bytes": 3136,
+          "sha256": "d24bf934bec553c411cadb50658c41c493da5265fcd4f8df759282533c2aa46a"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "seima-densetsu-3x3-eyes-jp-mcd",
+      "platform": "mcd",
+      "title": "三隻眼（Seima Densetsu 3x3 Eyes）",
+      "status": "available-for-testing",
+      "rom": "116f3c7ded32a7b0838933e908f279ad0b398b19fcf7315bd9e1e2eed7bed6e6",
+      "roms": [
+        "116f3c7ded32a7b0838933e908f279ad0b398b19fcf7315bd9e1e2eed7bed6e6"
+      ],
+      "version": "8e6203589fc2709a",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 20595,
+      "segments": 20504,
+      "tag": "pack-seima-densetsu-3x3-eyes-jp-mcd-116f3c7d-8e6203589fc2709a",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-seima-densetsu-3x3-eyes-jp-mcd-116f3c7d-8e6203589fc2709a/seima-densetsu-3x3-eyes-jp-mcd-116f3c7d-8e6203589fc2709a.zip",
+      "bytes": 3849747,
+      "sha256": "63048a7e3774dcf13d251a0260b120e4bdc88c9967fdfeb8bf617e76c78d799a",
+      "files": [
+        {
+          "name": "116f3c7ded32a7b0838933e908f279ad0b398b19fcf7315bd9e1e2eed7bed6e6.system.bcan",
+          "bytes": 38448751,
+          "sha256": "03410d23d6018a2b3784664eed6b06ed5d850fc0c4d8e75bd83135f84a1401d6"
+        },
+        {
+          "name": "116f3c7ded32a7b0838933e908f279ad0b398b19fcf7315bd9e1e2eed7bed6e6.tw.txt",
+          "bytes": 440597,
+          "sha256": "2e2239c83420e9ac2c566f41c78892822f82ae89b91fa4fabd5debc9a2306a70"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "famicom-jump-2-jp",
+      "platform": "fc",
+      "title": "英雄列傳二代",
+      "status": "available-for-testing",
+      "rom": "184846698189cb935bbe2adab9a16864fca34245292475adc82913338c0d73a1",
+      "roms": [
+        "184846698189cb935bbe2adab9a16864fca34245292475adc82913338c0d73a1"
+      ],
+      "version": "7cf2cecd562d1267",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 2558,
+      "segments": 6826,
+      "tag": "pack-famicom-jump-2-jp-18484669-7cf2cecd562d1267",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-2-jp-18484669-7cf2cecd562d1267/famicom-jump-2-jp-18484669-7cf2cecd562d1267.zip",
+      "bytes": 821004,
+      "sha256": "d5f0b719d479b2f495f9d848e61f0121d2051277c3ebf33f002dbc6f372c0637",
+      "files": [
+        {
+          "name": "famicom-jump-2-jp.system.bcan",
+          "bytes": 5186737,
+          "sha256": "8b99b75515dc34c46b1826089a2df400fbd6b9fc05795ef79e5d75e17e4e2b50"
+        },
+        {
+          "name": "famicom-jump-2-jp.tw.txt",
+          "bytes": 154115,
+          "sha256": "9af037d42e218ccf1f7e77edba3736043e423b699c7c5bba1984c0bfd049e666"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "gg-jashin-no-kakusei",
+      "platform": "gg",
+      "title": "GG 邪神的覺醒",
+      "status": "available-for-testing",
+      "rom": "24190e0f3e2b54dc1ee6f9d824a0c78d4234e71637170e92996c311deb38894d",
+      "roms": [
+        "24190e0f3e2b54dc1ee6f9d824a0c78d4234e71637170e92996c311deb38894d"
+      ],
+      "version": "b46066f044f7420f",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 1400,
+      "segments": 2673,
+      "tag": "pack-gg-jashin-no-kakusei-24190e0f-b46066f044f7420f",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-jashin-no-kakusei-24190e0f-b46066f044f7420f/gg-jashin-no-kakusei-24190e0f-b46066f044f7420f.zip",
+      "bytes": 382464,
+      "sha256": "aac595ae5222f055874f56268884c1032a24ed5f9007a3c4a140595745267cfb",
+      "files": [
+        {
+          "name": "gg-jashin-no-kakusei.hk.txt",
+          "bytes": 52789,
+          "sha256": "d3bdd7cda5175e5cd241378b1adc8c03516da30ae1abdf8fffbbc5c6b2e37b51"
+        },
+        {
+          "name": "gg-jashin-no-kakusei.system.bcan",
+          "bytes": 2853991,
+          "sha256": "3f18ec67ebc94e745250b2d849dfffe7a68c8ec70810031d8a6392bba8694339"
+        },
+        {
+          "name": "gg-jashin-no-kakusei.tw.txt",
+          "bytes": 51007,
+          "sha256": "cd494a275c8a7bb4a064d4e2b5d1d44821e4f15acd89722a964b7ddb075d62c6"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "konami-wai-wai-world-jp",
+      "platform": "fc",
+      "title": "科拿米世界（Konami Wai Wai World）",
+      "status": "available-for-testing",
+      "rom": "245383464f16b0d674489863c77401b38b1a5a24bc0204c5cffd463d3d45760a",
+      "roms": [
+        "245383464f16b0d674489863c77401b38b1a5a24bc0204c5cffd463d3d45760a"
+      ],
+      "version": "bd8e70ffb6b2258b",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 328,
+      "segments": 328,
+      "tag": "pack-konami-wai-wai-world-jp-24538346-bd8e70ffb6b2258b",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-konami-wai-wai-world-jp-24538346-bd8e70ffb6b2258b/konami-wai-wai-world-jp-24538346-bd8e70ffb6b2258b.zip",
+      "bytes": 78864,
+      "sha256": "0d672e40e984e2f0eb08748b170f5c7e5f37ccf47b0026396b649cfd143d28be",
+      "files": [
+        {
+          "name": "konami-wai-wai-world-jp.system.bcan",
+          "bytes": 724545,
+          "sha256": "15b8d0433f8518449afa9392dafea0b1264f38742d95b1e912c8504c2d25ada8"
+        },
+        {
+          "name": "konami-wai-wai-world-jp.tw.txt",
+          "bytes": 6988,
+          "sha256": "9c9abef38b7703a508496a0e2bb87cec36067e31f9fc866dd1cd4a51a9584e97"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dragon-quest-ii-jp",
+      "platform": "fc",
+      "title": "勇者鬥惡龍 II",
+      "status": "available-for-testing",
+      "rom": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d",
+      "roms": [
+        "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d"
+      ],
+      "version": "a4871d6852b2d486",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 784,
+      "segments": 1624,
+      "tag": "pack-dragon-quest-ii-jp-24bf2e61-a4871d6852b2d486",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-ii-jp-24bf2e61-a4871d6852b2d486/dragon-quest-ii-jp-24bf2e61-a4871d6852b2d486.zip",
+      "bytes": 251777,
+      "sha256": "087a49e6917a69b9b03c03a4066783bfda6eb74a3c467e1ea5c957cda50bcb20",
+      "files": [
+        {
+          "name": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d.hk.txt",
+          "bytes": 33445,
+          "sha256": "8c3d549275d3b5ff9096b6598785ef98d95a9cc2713f0d25d42e7a918a5efe12"
+        },
+        {
+          "name": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d.system.bcan",
+          "bytes": 2048493,
+          "sha256": "cc914263f2743b580a74ccf396af4f780dc2c82db6700a5237b67fca6874cc55"
+        },
+        {
+          "name": "24bf2e619f9561ffbc608ddfd0896f8536000254d291aaf5a156fe5969abac6d.tw.txt",
+          "bytes": 33877,
+          "sha256": "28d03180ae8544310af6547034a3d5b2348d4eb880e53f20fdf26e95dc918066"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "tenchi-wo-kurau-2-jp",
+      "platform": "fc",
+      "title": "吞食天地二：諸葛孔明傳",
+      "status": "available-for-testing",
+      "rom": "2bc5970f8e2b6ddd0172e900b78d5234ed1919954cf00434a86ca18166a6f4bf",
+      "roms": [
+        "2bc5970f8e2b6ddd0172e900b78d5234ed1919954cf00434a86ca18166a6f4bf",
+        "595f80febfc53a7a3698b5f5a98f565d800fd7bb87fbb5e62cf5bc16c628f968",
+        "cf698e3f62a9fae73defd900f7c84e8f983117f4c82461d54b5510357d74269a"
+      ],
+      "version": "d7e26c69fe89b5f5",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 2121,
+      "segments": 6394,
+      "tag": "pack-tenchi-wo-kurau-2-jp-2bc5970f-d7e26c69fe89b5f5",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-tenchi-wo-kurau-2-jp-2bc5970f-d7e26c69fe89b5f5/tenchi-wo-kurau-2-jp-2bc5970f-d7e26c69fe89b5f5.zip",
+      "bytes": 2208343,
+      "sha256": "4926c2626da39e39709295104d5d53bd30e1e71f912c0b73bd8a8e6d0f5678b2",
+      "files": [
+        {
+          "name": "tenchi-wo-kurau-2-jp.system.bcan",
+          "bytes": 15913372,
+          "sha256": "e33bfa3aa992c98dcdca15e4d6f96e64c2d66a22513761b045818703fd08f009"
+        },
+        {
+          "name": "tenchi-wo-kurau-2-jp.tw.txt",
+          "bytes": 118349,
+          "sha256": "b6b13931cbc4955d3420f24af4f9772ac25bc0f8e7df5bc260e005590512deb1"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dragon-quest-monsters-terry-jp-gbc",
+      "platform": "gbc",
+      "title": "勇者鬥惡龍怪獸仙境：泰瑞仙境",
+      "status": "available-for-testing",
+      "rom": "2f2081e6907ae0ac5d171ceb977b5367fc6c5842b0eb73528733a7fa1e42d55b",
+      "roms": [
+        "2f2081e6907ae0ac5d171ceb977b5367fc6c5842b0eb73528733a7fa1e42d55b"
+      ],
+      "version": "35e8984e5189cf10",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 6831,
+      "segments": 6810,
+      "tag": "pack-dragon-quest-monsters-terry-jp-gbc-2f2081e6-35e8984e5189cf10",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-monsters-terry-jp-gbc-2f2081e6-35e8984e5189cf10/dragon-quest-monsters-terry-jp-gbc-2f2081e6-35e8984e5189cf10.zip",
+      "bytes": 1324375,
+      "sha256": "e46e1e4a66c84f49257604bf00f8d8831f8389195ba43d23dffb1ec504ba86c6",
+      "files": [
+        {
+          "name": "dragon-quest-monsters-terry-jp-gbc.system.bcan",
+          "bytes": 12032597,
+          "sha256": "4f996a4c766c18de408c214aaaa315dba14491eb79f71473d0c55e21ff9df235"
+        },
+        {
+          "name": "dragon-quest-monsters-terry-jp-gbc.tw.txt",
+          "bytes": 169109,
+          "sha256": "2bd0a3508cd902b154d415ccb15658f4a9b62beaef22aadaca8d4533eefd276d"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dragon-ball-3-gokuu-den-jp",
+      "platform": "fc",
+      "title": "七龍珠三代：悟空傳",
+      "status": "available-for-testing",
+      "rom": "3b5929ecf790e39bf6dc435e3add5aa6bdbdd3bfec5ce41cffb798bcea1f9da3",
+      "roms": [
+        "3b5929ecf790e39bf6dc435e3add5aa6bdbdd3bfec5ce41cffb798bcea1f9da3",
+        "697c14da1378dcc231b836706c075fddd409ef2a7c25828b0062a21832a66be3",
+        "b7f865e4f7e80064982979f16afc659d9607519b8b858482f3d02475fb986c2b"
+      ],
+      "version": "29221c250914bff9",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 1508,
+      "segments": 2098,
+      "tag": "pack-dragon-ball-3-gokuu-den-jp-3b5929ec-29221c250914bff9",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-ball-3-gokuu-den-jp-3b5929ec-29221c250914bff9/dragon-ball-3-gokuu-den-jp-3b5929ec-29221c250914bff9.zip",
+      "bytes": 1206152,
+      "sha256": "9960ac3bec9959df9b2283c3d15b6c7d6f6ffecfb3febc73cc1306f37892c9d1",
+      "files": [
+        {
+          "name": "dragon-ball-3-gokuu-den-jp.system.bcan",
+          "bytes": 9720636,
+          "sha256": "5adabcec52b856fc61eeb9fd831cfc31805e0550b8ea95b3eb735a51aa898fee"
+        },
+        {
+          "name": "dragon-ball-3-gokuu-den-jp.tw.txt",
+          "bytes": 59781,
+          "sha256": "1a1162458aca1c3db480fd2137e52466f0d300b520afec8ec9aa4f9b22186561"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dbz-super-saiya-densetsu-jp-sfc",
+      "platform": "sfc",
+      "title": "七龍珠 Z：超級賽亞人傳說",
+      "status": "available-for-testing",
+      "rom": "43ac4b87365b1d34b62f7cd580068cbb15467186865cc92f140677cf18733c5e",
+      "roms": [
+        "43ac4b87365b1d34b62f7cd580068cbb15467186865cc92f140677cf18733c5e"
+      ],
+      "version": "b520210ab7229d5f",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 1076,
+      "segments": 2462,
+      "tag": "pack-dbz-super-saiya-densetsu-jp-sfc-43ac4b87-b520210ab7229d5f",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dbz-super-saiya-densetsu-jp-sfc-43ac4b87-b520210ab7229d5f/dbz-super-saiya-densetsu-jp-sfc-43ac4b87-b520210ab7229d5f.zip",
+      "bytes": 434804,
+      "sha256": "a3292fd962a7b5d6c90195ebbba65a84dbc590dda9881ef2f4a401228875bccf",
+      "files": [
+        {
+          "name": "dbz-super-saiya-densetsu-jp-sfc.system.bcan",
+          "bytes": 2858378,
+          "sha256": "40d5ba4aaa0e76a68a7dbe58f8931b45fb498ceba9dca43d5c232a2d36bce87d"
+        },
+        {
+          "name": "dbz-super-saiya-densetsu-jp-sfc.tw.txt",
+          "bytes": 61865,
+          "sha256": "44d9f48b45c533f5864bbf5614879004543c62c2d20d0090b7d7953292949775"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "gg-final-conflict",
+      "platform": "gg",
+      "title": "GG Final Conflict",
+      "status": "available-for-testing",
+      "rom": "4705256cc1a242aab7fea170369eb64723f796e27c6edfe0f93a674a8ba00f42",
+      "roms": [
+        "4705256cc1a242aab7fea170369eb64723f796e27c6edfe0f93a674a8ba00f42"
+      ],
+      "version": "89dd88112d08e1d2",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 1751,
+      "segments": 3406,
+      "tag": "pack-gg-final-conflict-4705256c-89dd88112d08e1d2",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-final-conflict-4705256c-89dd88112d08e1d2/gg-final-conflict-4705256c-89dd88112d08e1d2.zip",
+      "bytes": 1032120,
+      "sha256": "40e2c05810b451bdc36c4874313f1d0e753d3b471eae31e4302d19f4a1264a3d",
+      "files": [
+        {
+          "name": "gg-final-conflict.hk.txt",
+          "bytes": 67187,
+          "sha256": "ec422ae33499e1ea9d0fc3b47d243491aba0388fb89d784334d2402c0857b247"
+        },
+        {
+          "name": "gg-final-conflict.system.bcan",
+          "bytes": 5181181,
+          "sha256": "843a8f643c65fdf958e1ee2884803dbc62ddcc8847cb62cb9b7edb6132c222a1"
+        },
+        {
+          "name": "gg-final-conflict.tw.txt",
+          "bytes": 68486,
+          "sha256": "8fca2e6e94fe8e705983e101d6fc79d01adfc7cc61da1f4e97b83d7ff388f524"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "saint-seiya-ougon-densetsu-jp",
+      "platform": "fc",
+      "title": "聖鬥士星矢：黃金傳說",
+      "status": "available-for-testing",
+      "rom": "4a455c581737c16335a8d83fc9fc623d9f6fe0933b887df1169655f307d66a3c",
+      "roms": [
+        "4a455c581737c16335a8d83fc9fc623d9f6fe0933b887df1169655f307d66a3c"
+      ],
+      "version": "58f41706e538fa39",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 455,
+      "segments": 1253,
+      "tag": "pack-saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39/saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39.zip",
+      "bytes": 128305,
+      "sha256": "54b19d25245999e155b4a3913ecdd90167072aab35f13a216f4d08330574f5bf",
+      "files": [
+        {
+          "name": "saint-seiya-ougon-densetsu-jp.system.bcan",
+          "bytes": 977548,
+          "sha256": "4b34d2835a03a8071f36ba5273bc38fca1f510860bde909bdf116accd32b2766"
+        },
+        {
+          "name": "saint-seiya-ougon-densetsu-jp.tw.txt",
+          "bytes": 18668,
+          "sha256": "830dae1f833d40678ba230259eb8d0f3dfe8d67f49ef1095d5941ae176938579"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "ganbare-goemon-2-jp",
+      "platform": "fc",
+      "title": "大盜五右衛門二代",
+      "status": "available-for-testing",
+      "rom": "57dd19aac878b61bfd995cb42c2084262de5b0da8f02b42362d153fa3118e5b2",
+      "roms": [
+        "57dd19aac878b61bfd995cb42c2084262de5b0da8f02b42362d153fa3118e5b2"
+      ],
+      "version": "68f1ebb166d197b9",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 156,
+      "segments": 347,
+      "tag": "pack-ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9/ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9.zip",
+      "bytes": 50277,
+      "sha256": "e80508775acd864eaff76e48e92368e749bdc10750445863b0221b8d0c9f9902",
+      "files": [
+        {
+          "name": "ganbare-goemon-2-jp.system.bcan",
+          "bytes": 360138,
+          "sha256": "f376366d1a3ceaec28041bbdad2fbd7d6f4a989c3a19f6f25cede14c5fe77cb1"
+        },
+        {
+          "name": "ganbare-goemon-2-jp.tw.txt",
+          "bytes": 6516,
+          "sha256": "33e097b99976a2b78d225869b1dc8f5f77bfdae9f0a1ed08cc737935680d5b79"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "lunar-eternal-blue-jp-mcd",
+      "platform": "mcd",
+      "title": "銀河之星二代（Lunar: Eternal Blue）",
+      "status": "available-for-testing",
+      "rom": "5ff88152ba4c7a710a961609ea7cb07b985ddd99b7e21f0aeeaf6e224ce9b4e7",
+      "roms": [
+        "5ff88152ba4c7a710a961609ea7cb07b985ddd99b7e21f0aeeaf6e224ce9b4e7",
+        "7c5c14cea77fb2673d6fdc7272baf00d230087db9053bc86c1a19a32e9109a2e"
+      ],
+      "version": "84eec791a8575a5a",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 4818,
+      "segments": 24784,
+      "tag": "pack-lunar-eternal-blue-jp-mcd-5ff88152-84eec791a8575a5a",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-lunar-eternal-blue-jp-mcd-5ff88152-84eec791a8575a5a/lunar-eternal-blue-jp-mcd-5ff88152-84eec791a8575a5a.zip",
+      "bytes": 5119094,
+      "sha256": "8ae7ba942fdb26491ae6e72d2a5b472c9519ae59aca56ade3896ae449e7a08e4",
+      "files": [
+        {
+          "name": "lunar-eternal-blue-jp-mcd.system.bcan",
+          "bytes": 29897087,
+          "sha256": "82bf909b22ed368f372832ad4df5fbd67166f70145bfd35f1de2a87e4c3d2510"
+        },
+        {
+          "name": "lunar-eternal-blue-jp-mcd.tw.txt",
+          "bytes": 533325,
+          "sha256": "9e7bd876e97ce121caff6058b6eb6bec43dbe41f6d7ac7a64637a0175c83b58c"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "gg-madou-monogatari-a",
+      "platform": "gg",
+      "title": "GG 魔導物語 A",
+      "status": "available-for-testing",
+      "rom": "6679b88d3db2ca62a78b1904cfe8364f7e6d5d74ffda27b7dbe49417ed2d02ec",
+      "roms": [
+        "6679b88d3db2ca62a78b1904cfe8364f7e6d5d74ffda27b7dbe49417ed2d02ec"
+      ],
+      "version": "f19303664db0ce87",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 996,
+      "segments": 2368,
+      "tag": "pack-gg-madou-monogatari-a-6679b88d-f19303664db0ce87",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-madou-monogatari-a-6679b88d-f19303664db0ce87/gg-madou-monogatari-a-6679b88d-f19303664db0ce87.zip",
+      "bytes": 282841,
+      "sha256": "ecd941df8b33af0cc456388c835ac7ba36419c5ad525a6a92c2d2cbffb68ae7e",
+      "files": [
+        {
+          "name": "gg-madou-monogatari-a.system.bcan",
+          "bytes": 2069926,
+          "sha256": "3d500b033de20d1c1941954c0615ced2d2663f89fcb5d61982b65f6ab8dfe896"
+        },
+        {
+          "name": "gg-madou-monogatari-a.tw.txt",
+          "bytes": 35030,
+          "sha256": "e6473e339d9f46375d481a4b75683ebeb1332d7407f2c848676a8a22a08b7c61"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dragon-ball-daimaou-fukkatsu-jp",
+      "platform": "fc",
+      "title": "七龍珠 大魔王復活",
+      "status": "available-for-testing",
+      "rom": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb",
+      "roms": [
+        "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb"
+      ],
+      "version": "42420c300401e60c",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 891,
+      "segments": 1286,
+      "tag": "pack-dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c/dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c.zip",
+      "bytes": 244087,
+      "sha256": "ed47375eadc4aed9a415db10423655a07a9882fd84f879d78cf97653c0770499",
+      "files": [
+        {
+          "name": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb.hk.txt",
+          "bytes": 33457,
+          "sha256": "2f25d9ddd5f2fceefb4f3688e25b6bce0d8d1475dbd79b708e7a0f239afdaefd"
+        },
+        {
+          "name": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb.system.bcan",
+          "bytes": 1786752,
+          "sha256": "9b713519767661e168fab679da9a8299b5852a676bb28aa68dd995078f1d48b0"
+        },
+        {
+          "name": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb.tw.txt",
+          "bytes": 32757,
+          "sha256": "a8120757bea25cf8aae873cc0a01b70fdfaddde3244c359752b484a0035bd1f8"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "famicom-jump-eiyuu-retsuden-jp",
+      "platform": "fc",
+      "title": "英雄列傳",
+      "status": "available-for-testing",
+      "rom": "6810c271c824df3e181c8b97f75c83850a8a7ef0f00808b1abbbcc351f02d1c7",
+      "roms": [
+        "6810c271c824df3e181c8b97f75c83850a8a7ef0f00808b1abbbcc351f02d1c7",
+        "976e9b665a274b05ad7fb3d179226ea9b8ab1f584a8f08c21ede1e716c617dc1"
+      ],
+      "version": "bacf915e07d6afce",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 1563,
+      "segments": 2312,
+      "tag": "pack-famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce/famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce.zip",
+      "bytes": 690578,
+      "sha256": "1b3dfab2c1d5bab2672e03e3ae2c8d19ca18cdb83bde0333aa25b9174f48d0e2",
+      "files": [
+        {
+          "name": "famicom-jump-eiyuu-retsuden-jp.hk.txt",
+          "bytes": 52227,
+          "sha256": "e059ed8b8c6a7d133ce5eb763060293b6b62aebe4eb7910cf4ce051129614c82"
+        },
+        {
+          "name": "famicom-jump-eiyuu-retsuden-jp.system.bcan",
+          "bytes": 8680665,
+          "sha256": "e621af2fa42886a3657912bbfac4e75801b1d4d709067085b6024d6d11a30f34"
+        },
+        {
+          "name": "famicom-jump-eiyuu-retsuden-jp.tw.txt",
+          "bytes": 53190,
+          "sha256": "79ee0dec6bf9977a84816cbd54944301055d51f1620b5e6e74d89837b6fcc177"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "ganbare-goemon-4-jp-sfc",
+      "platform": "sfc",
+      "title": "大盜五右衛門四代（超任）",
+      "status": "available-for-testing",
+      "rom": "6f0c79c2bf342f33ea265a7343e3f1c163b49c32f6e4a717bf5f3c6fcbf576de",
+      "roms": [
+        "6f0c79c2bf342f33ea265a7343e3f1c163b49c32f6e4a717bf5f3c6fcbf576de"
+      ],
+      "version": "a0a953dcca508971",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 539,
+      "segments": 2253,
+      "tag": "pack-ganbare-goemon-4-jp-sfc-6f0c79c2-a0a953dcca508971",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-4-jp-sfc-6f0c79c2-a0a953dcca508971/ganbare-goemon-4-jp-sfc-6f0c79c2-a0a953dcca508971.zip",
+      "bytes": 239786,
+      "sha256": "6f0de499f78482528e42ea3e0baf22026e84dabb29ac2e45cd4a0251533940b6",
+      "files": [
+        {
+          "name": "ganbare-goemon-4-jp-sfc.system.bcan",
+          "bytes": 1293734,
+          "sha256": "5a619770b95021502f19a6752b7b5571296b69af7304ae16513a8cd724d32a59"
+        },
+        {
+          "name": "ganbare-goemon-4-jp-sfc.tw.txt",
+          "bytes": 50131,
+          "sha256": "f5a0d007bdc8d874325a2277cae8c151f6af7d401b72e40f6bf9e2208cb10d53"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "ganbare-goemon-yuki-hime-jp-sfc",
+      "platform": "sfc",
+      "title": "大盜五右衛門：雪姬救出繪卷（超任）",
+      "status": "available-for-testing",
+      "rom": "704480af8159c700252c43ec9a2853dc4bea04cd1f5f193531f66165ce471d5d",
+      "roms": [
+        "704480af8159c700252c43ec9a2853dc4bea04cd1f5f193531f66165ce471d5d"
+      ],
+      "version": "917d2190e0e7ea5a",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 490,
+      "segments": 1191,
+      "tag": "pack-ganbare-goemon-yuki-hime-jp-sfc-704480af-917d2190e0e7ea5a",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-yuki-hime-jp-sfc-704480af-917d2190e0e7ea5a/ganbare-goemon-yuki-hime-jp-sfc-704480af-917d2190e0e7ea5a.zip",
+      "bytes": 181766,
+      "sha256": "fe572e511979bfcd43274fd8b3135820c1ec8ba85b46725e32bc840d97c8d23c",
+      "files": [
+        {
+          "name": "ganbare-goemon-yuki-hime-jp-sfc.system.bcan",
+          "bytes": 1312031,
+          "sha256": "a056488384462d0af3af56757b4ee370670cb95f46ae469aa2b8b06b0e54c641"
+        },
+        {
+          "name": "ganbare-goemon-yuki-hime-jp-sfc.tw.txt",
+          "bytes": 31914,
+          "sha256": "2184f071e1c8be08919f19e958ffd7f90ca9459f2a495a661569977e2ab203fa"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "shining-force-cd-jp-mcd",
+      "platform": "mcd",
+      "title": "光明與黑暗 CD（Shining Force CD）",
+      "status": "available-for-testing",
+      "rom": "7b7c86d59b21f350f7f6ec1b65968c577c5daf0411c616e965843c4bb315d5f0",
+      "roms": [
+        "7b7c86d59b21f350f7f6ec1b65968c577c5daf0411c616e965843c4bb315d5f0"
+      ],
+      "version": "2ca2c5d54be2ea4f",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 2434,
+      "segments": 5211,
+      "tag": "pack-shining-force-cd-jp-mcd-7b7c86d5-2ca2c5d54be2ea4f",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-shining-force-cd-jp-mcd-7b7c86d5-2ca2c5d54be2ea4f/shining-force-cd-jp-mcd-7b7c86d5-2ca2c5d54be2ea4f.zip",
+      "bytes": 789739,
+      "sha256": "83c878b2ecd3935228503e1ffa1bfa1e4f15e945b07f5e268f64290e0aed6b56",
+      "files": [
+        {
+          "name": "shining-force-cd-jp-mcd.system.bcan",
+          "bytes": 5629344,
+          "sha256": "d8098ad9c9a52f7292f3801e9947887ba1794c094ca53c10721c1eb931322445"
+        },
+        {
+          "name": "shining-force-cd-jp-mcd.tw.txt",
+          "bytes": 109865,
+          "sha256": "ced7d91483b5f775ca9b8bc042f79c5734fa4a147007ec1b4a98ca10466bd125"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "bahamut-lagoon-jp-sfc",
+      "platform": "sfc",
+      "title": "神龍奇兵",
+      "status": "available-for-testing",
+      "rom": "7c8da2f7c7a85de5c8c92797150264411f080ea56cf73b4b856f0449eb1c6141",
+      "roms": [
+        "7c8da2f7c7a85de5c8c92797150264411f080ea56cf73b4b856f0449eb1c6141"
+      ],
+      "version": "bb8e0788a6f98fbf",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 4553,
+      "segments": 12705,
+      "tag": "pack-bahamut-lagoon-jp-sfc-7c8da2f7-bb8e0788a6f98fbf",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-bahamut-lagoon-jp-sfc-7c8da2f7-bb8e0788a6f98fbf/bahamut-lagoon-jp-sfc-7c8da2f7-bb8e0788a6f98fbf.zip",
+      "bytes": 1364909,
+      "sha256": "92d466ce88850fd774b2df7d7c25fd9468175df2336d759d3be64870376baf47",
+      "files": [
+        {
+          "name": "bahamut-lagoon-jp-sfc.system.bcan",
+          "bytes": 9564724,
+          "sha256": "c2f5e22b9cb3ad79e6a7e6e395e6360290537098851df0e8116327352835835d"
+        },
+        {
+          "name": "bahamut-lagoon-jp-sfc.tw.txt",
+          "bytes": 297411,
+          "sha256": "056d63c618494cc219dbde1d5137ccf6fe0397a5acb1d04f7ed15ceb9bc702fb"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "seiken-densetsu-2-jp-sfc",
+      "platform": "sfc",
+      "title": "聖劍傳說二代",
+      "status": "available-for-testing",
+      "rom": "7fd1747eb4333f502d5fe6df7267342e4b4a399ab65b57f0a139e5f9fc02ab9d",
+      "roms": [
+        "7fd1747eb4333f502d5fe6df7267342e4b4a399ab65b57f0a139e5f9fc02ab9d"
+      ],
+      "version": "78260c7e9e84ebbc",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 1089,
+      "segments": 3683,
+      "tag": "pack-seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc/seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc.zip",
+      "bytes": 508856,
+      "sha256": "55f2812e79c465abddc2a178fc20ed4181d02a8c8704c453a85c017cf2665892",
+      "files": [
+        {
+          "name": "seiken-densetsu-2-jp-sfc.system.bcan",
+          "bytes": 2484452,
+          "sha256": "5e4a35df7c6fdd3bb2ffbe1a9c4e462254865b95df591685fdb03563eace9629"
+        },
+        {
+          "name": "seiken-densetsu-2-jp-sfc.tw.txt",
+          "bytes": 105484,
+          "sha256": "95ba2a09208791612b4f0b1d6921091eb2fa7a5bc0f68573dd245cc1087822f7"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "lunar-silver-star-jp-mcd",
+      "platform": "mcd",
+      "title": "銀河之星（Lunar: The Silver Star）",
+      "status": "available-for-testing",
+      "rom": "8158b40a63430e0152eb28b3ded5581c1cbec70b8ce40e2920a08936a4c65053",
+      "roms": [
+        "8158b40a63430e0152eb28b3ded5581c1cbec70b8ce40e2920a08936a4c65053"
+      ],
+      "version": "23d60e5b5e8bc301",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 5360,
+      "segments": 20317,
+      "tag": "pack-lunar-silver-star-jp-mcd-8158b40a-23d60e5b5e8bc301",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-lunar-silver-star-jp-mcd-8158b40a-23d60e5b5e8bc301/lunar-silver-star-jp-mcd-8158b40a-23d60e5b5e8bc301.zip",
+      "bytes": 2460565,
+      "sha256": "79ed34b5117bca302e7b8c1e5bebc78d78b2cfe5cdec7fa73b1f5c581833b846",
+      "files": [
+        {
+          "name": "lunar-silver-star-jp-mcd.system.bcan",
+          "bytes": 12236552,
+          "sha256": "38009c7c24b5a1004453503ba72ae1bf2f1bdc28ff88b46c3aeb655964601b57"
+        },
+        {
+          "name": "lunar-silver-star-jp-mcd.tw.txt",
+          "bytes": 481127,
+          "sha256": "b427d0470173d8a56b78276c8067005068a17369855b697c316d5e9459c908d3"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dbz-super-saiya-densetsu-jp-sfc",
+      "platform": "sfc",
+      "title": "七龍珠 Z：超級賽亞人傳說",
+      "status": "available-for-testing",
+      "rom": "962aa7a09765a97164af67098877a8fe5b7f1ea9db738561eb466b7600fd241c",
+      "roms": [
+        "962aa7a09765a97164af67098877a8fe5b7f1ea9db738561eb466b7600fd241c"
+      ],
+      "version": "3b9214f25279fd01",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 1077,
+      "segments": 2464,
+      "tag": "pack-dbz-super-saiya-densetsu-jp-sfc-962aa7a0-3b9214f25279fd01",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dbz-super-saiya-densetsu-jp-sfc-962aa7a0-3b9214f25279fd01/dbz-super-saiya-densetsu-jp-sfc-962aa7a0-3b9214f25279fd01.zip",
+      "bytes": 422017,
+      "sha256": "26cf773147350ec1adc58e5862a872df2dec29449bc38fda9d5e2ca72325e1d8",
+      "files": [
+        {
+          "name": "dbz-super-saiya-densetsu-jp-sfc-rev1.system.bcan",
+          "bytes": 2816990,
+          "sha256": "974b8eff0356b911067f4f4743bda5df0bca2d6ac605f982742e53ec9568d9b9"
+        },
+        {
+          "name": "dbz-super-saiya-densetsu-jp-sfc-rev1.tw.txt",
+          "bytes": 61921,
+          "sha256": "6488e707c667dc20cd9178e3157fc65520130ab27dc007b2d309ca6346b6c5ee"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dragon-quest-v-jp-sfc",
+      "platform": "sfc",
+      "title": "勇者鬥惡龍 V",
+      "status": "available-for-testing",
+      "rom": "9f9e7b578137a515589d832885dc7d8211feec6888e83550886ff09ada8f448b",
+      "roms": [
+        "9f9e7b578137a515589d832885dc7d8211feec6888e83550886ff09ada8f448b"
+      ],
+      "version": "b2fef3b061c31f64",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 4651,
+      "segments": 14691,
+      "tag": "pack-dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64/dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64.zip",
+      "bytes": 2381794,
+      "sha256": "6a5df46b256f7ea09c87c2bf387aa2e742e4792ebed512765ab004857820c4b1",
+      "files": [
+        {
+          "name": "dragon-quest-v-jp-sfc.hk.txt",
+          "bytes": 323835,
+          "sha256": "387cd3a767c239e0ae4327dac0b861d40ac47db27f9f223577bccd5b649ce53c"
+        },
+        {
+          "name": "dragon-quest-v-jp-sfc.system.bcan",
+          "bytes": 15471505,
+          "sha256": "bb06acd2b986624601f6db7fc94eaf4ff1d891349cfe763f458232a6097c35d5"
+        },
+        {
+          "name": "dragon-quest-v-jp-sfc.tw.txt",
+          "bytes": 330445,
+          "sha256": "8f49a4bbc7fea9e6b0251589c9fb6855a709bf92bf575736d042277eb95137d1"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "gg-ensei-jashin",
+      "platform": "gg",
+      "title": "GG 遠征・邪神之國",
+      "status": "available-for-testing",
+      "rom": "a49ff5f30c62dcc99f9cbd8be28627ee10d8c4133cf94d80af5e614b1db342b8",
+      "roms": [
+        "a49ff5f30c62dcc99f9cbd8be28627ee10d8c4133cf94d80af5e614b1db342b8"
+      ],
+      "version": "08cc0e2c634d5c55",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 1014,
+      "segments": 1864,
+      "tag": "pack-gg-ensei-jashin-a49ff5f3-08cc0e2c634d5c55",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-ensei-jashin-a49ff5f3-08cc0e2c634d5c55/gg-ensei-jashin-a49ff5f3-08cc0e2c634d5c55.zip",
+      "bytes": 425236,
+      "sha256": "65ed2a4e7004cd3b0854ce1e4465486eae0c3a5094a3f37605eed8152e13349e",
+      "files": [
+        {
+          "name": "gg-ensei-jashin.hk.txt",
+          "bytes": 38302,
+          "sha256": "587dc49053666578201247d5244b91c16c315c03bdf40bd8ff7b7a7ae67a9dcd"
+        },
+        {
+          "name": "gg-ensei-jashin.system.bcan",
+          "bytes": 2393343,
+          "sha256": "818beeda4783bd704f6f593ac07a2655bb95ab14974d33f7cdb7ddc51e6964f1"
+        },
+        {
+          "name": "gg-ensei-jashin.tw.txt",
+          "bytes": 38788,
+          "sha256": "5dcc5c8993f27bebcd401c2363e7f4818bab9a7715109e59339a9775e10b9f56"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "vermilion-jp-md",
+      "platform": "md",
+      "title": "石中劍（Vermilion）",
+      "status": "available-for-testing",
+      "rom": "a76f3437700cff110bdd13c6a7d3192933ae8eea65488f71da9128c6917e1baf",
+      "roms": [
+        "a76f3437700cff110bdd13c6a7d3192933ae8eea65488f71da9128c6917e1baf"
+      ],
+      "version": "b1c5a810e9b28950",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 1341,
+      "segments": 2907,
+      "tag": "pack-vermilion-jp-md-a76f3437-b1c5a810e9b28950",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-vermilion-jp-md-a76f3437-b1c5a810e9b28950/vermilion-jp-md-a76f3437-b1c5a810e9b28950.zip",
+      "bytes": 581432,
+      "sha256": "2cde665694f944da617bbce778fff2412a31166d485e226d787ec056de82ba9d",
+      "files": [
+        {
+          "name": "vermilion-jp-md.system.bcan",
+          "bytes": 3584252,
+          "sha256": "0c0cfb6aa6ed98a9aea3590b120710cebc1621e9096a4683ab2f3ed25a1308bc"
+        },
+        {
+          "name": "vermilion-jp-md.tw.txt",
+          "bytes": 77879,
+          "sha256": "c1e749adc69c3d389fb0e8abf5ce69a09f4c1f105a81b7c63484f355ad6fb431"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "link-no-bouken-jp-fds",
+      "platform": "fds",
+      "title": "林克的冒險／薩爾達傳說二代（FDS）",
+      "status": "available-for-testing",
+      "rom": "b3924095240595703c288c36414804613577212cf3e2e8afb6ff1eda49219d2d",
+      "roms": [
+        "b3924095240595703c288c36414804613577212cf3e2e8afb6ff1eda49219d2d"
+      ],
+      "version": "fcad13a10d4f54c9",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 151,
+      "segments": 288,
+      "tag": "pack-link-no-bouken-jp-fds-b3924095-fcad13a10d4f54c9",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-link-no-bouken-jp-fds-b3924095-fcad13a10d4f54c9/link-no-bouken-jp-fds-b3924095-fcad13a10d4f54c9.zip",
+      "bytes": 45645,
+      "sha256": "6b1483512d8a3e38b3d02245ab770026f5e93b53736a759943e2c6c177b9d898",
+      "files": [
+        {
+          "name": "link-no-bouken-jp-fds.system.bcan",
+          "bytes": 300957,
+          "sha256": "6982cbbcba8e3d22298b3ae5241939c03502bad12dd10ac2c7472346834a0a71"
+        },
+        {
+          "name": "link-no-bouken-jp-fds.tw.txt",
+          "bytes": 5342,
+          "sha256": "61a2555948f9f0a230d8b2ccd13d554d4707ff6d56cf520fd92bbeee99a047ed"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "tengai-makyou-ziria-jp-pcecd",
+      "platform": "pcecd",
+      "title": "天外魔境 ZIRIA（一代）",
+      "status": "available-for-testing",
+      "rom": "b8720d0e063be2e00390e104207512e6377f9495dc38afa9b53bffcab9c9ade2",
+      "roms": [
+        "b8720d0e063be2e00390e104207512e6377f9495dc38afa9b53bffcab9c9ade2"
+      ],
+      "version": "cdbfe07ee25d7e33",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 5359,
+      "segments": 13232,
+      "tag": "pack-tengai-makyou-ziria-jp-pcecd-b8720d0e-cdbfe07ee25d7e33",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-tengai-makyou-ziria-jp-pcecd-b8720d0e-cdbfe07ee25d7e33/tengai-makyou-ziria-jp-pcecd-b8720d0e-cdbfe07ee25d7e33.zip",
+      "bytes": 1490031,
+      "sha256": "e35334959f545534ba0664a0e8d358d8cf58e162b35a8fd7df956adbec3a23e4",
+      "files": [
+        {
+          "name": "tengai-makyou-ziria-jp-pcecd.system.bcan",
+          "bytes": 10333665,
+          "sha256": "766029fad90e86dbd15eb0fa18347986f3d6a74185d642b31da701344193a180"
+        },
+        {
+          "name": "tengai-makyou-ziria-jp-pcecd.tw.txt",
+          "bytes": 299778,
+          "sha256": "291627bca02fdcf6f90dadef45781f9fb5938c34cd9bd7017542bbcd5f3e01e1"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dracula2-noroi-no-fuuin-jp-fds",
+      "platform": "fds",
+      "title": "惡魔城二代：詛咒的封印（FDS）",
+      "status": "available-for-testing",
+      "rom": "b96d36d8c75fdbeae0dfe2da9037165314adc4f7aebca71df1a20ef476779773",
+      "roms": [
+        "b96d36d8c75fdbeae0dfe2da9037165314adc4f7aebca71df1a20ef476779773"
+      ],
+      "version": "fc7530e90e26fb91",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 142,
+      "segments": 398,
+      "tag": "pack-dracula2-noroi-no-fuuin-jp-fds-b96d36d8-fc7530e90e26fb91",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dracula2-noroi-no-fuuin-jp-fds-b96d36d8-fc7530e90e26fb91/dracula2-noroi-no-fuuin-jp-fds-b96d36d8-fc7530e90e26fb91.zip",
+      "bytes": 64507,
+      "sha256": "236498edc13f3183392ee20835e98e403a8b5ae353c8d2d0e6ca42b59047353d",
+      "files": [
+        {
+          "name": "dracula2-noroi-no-fuuin-jp-fds.system.bcan",
+          "bytes": 552844,
+          "sha256": "b5cc910c211c8e0ae5de7c12d4f901408b51f9c831021ddf3050890c183c88ef"
+        },
+        {
+          "name": "dracula2-noroi-no-fuuin-jp-fds.tw.txt",
+          "bytes": 5653,
+          "sha256": "ee7ee707ce6834a47fbfba94bd8c3dcc3f8f516dcb7a45cb6b44a71d738ea567"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "dragon-quest-iv-jp",
+      "platform": "fc",
+      "title": "勇者鬥惡龍 IV",
+      "status": "available-for-testing",
+      "rom": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf",
+      "roms": [
+        "185bd72a6629f36c18bc9e43766855db7d5221a52d25472644962c13db7f0c87",
+        "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf"
+      ],
+      "version": "248fcde03cd914fd",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 3359,
+      "segments": 9457,
+      "tag": "pack-dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd/dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd.zip",
+      "bytes": 2825008,
+      "sha256": "c4185494a80926179b02cc149fc0f9de723f114e44579b0bfaf572d638b7c358",
+      "files": [
+        {
+          "name": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf.hk.txt",
+          "bytes": 207965,
+          "sha256": "0cacb7ff83214b17a379e4aade1006c68cce1583819ce012f50c124f22a01b92"
+        },
+        {
+          "name": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf.system.bcan",
+          "bytes": 19583547,
+          "sha256": "32e0b66a26325eaae2056ba1ad56b482991f7259e82b9b6bd684a9ac3ab21fcd"
+        },
+        {
+          "name": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf.tw.txt",
+          "bytes": 201634,
+          "sha256": "0548626365e1bd4adc2117bcb694667f5cd6829dac2bb90643bc50b18d337d9d"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "ganbare-goemon-3-jp-sfc",
+      "platform": "sfc",
+      "title": "大盜五右衛門三代（超任）",
+      "status": "available-for-testing",
+      "rom": "beb7ee591116d2a625712abe44aea949eb7762fe8d01ce32dcce70fefcf5eff3",
+      "roms": [
+        "beb7ee591116d2a625712abe44aea949eb7762fe8d01ce32dcce70fefcf5eff3"
+      ],
+      "version": "820a5c905eb16651",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 1008,
+      "segments": 4396,
+      "tag": "pack-ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651/ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651.zip",
+      "bytes": 434346,
+      "sha256": "0c2c22dcd2eaed326fc991e08e082bf5adc403d79f698196feaaeda0397e28b7",
+      "files": [
+        {
+          "name": "ganbare-goemon-3-jp-sfc.system.bcan",
+          "bytes": 2177101,
+          "sha256": "2e2f5b94cba1f0db64f37a0bfb722e49b0e7d65b3651bf3af0d4ca3809ceacf8"
+        },
+        {
+          "name": "ganbare-goemon-3-jp-sfc.tw.txt",
+          "bytes": 94567,
+          "sha256": "cf3b65d3520eb5d6d8d1737489b83f71d819d16e5ca60d6d1fc3db94e01d5608"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "ganbare-goemon-2-jp-sfc",
+      "platform": "sfc",
+      "title": "大盜五右衛門二代（超任）",
+      "status": "available-for-testing",
+      "rom": "e4bd981225f85628e9db118e6c6591beef6d31eee6389ea37674c455c39f9dfe",
+      "roms": [
+        "e4bd981225f85628e9db118e6c6591beef6d31eee6389ea37674c455c39f9dfe"
+      ],
+      "version": "126309a03fcbfbf6",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 585,
+      "segments": 1332,
+      "tag": "pack-ganbare-goemon-2-jp-sfc-e4bd9812-126309a03fcbfbf6",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-2-jp-sfc-e4bd9812-126309a03fcbfbf6/ganbare-goemon-2-jp-sfc-e4bd9812-126309a03fcbfbf6.zip",
+      "bytes": 301991,
+      "sha256": "355fe3a4a857a1ef8f2aa0d12c86c9a7dd985464e0c3ae0991f62861be92ba04",
+      "files": [
+        {
+          "name": "ganbare-goemon-2-jp-sfc.system.bcan",
+          "bytes": 1626095,
+          "sha256": "c52ae79aa47f06d36c0e5944753e2293092d585da50e6d9a6071604afb731270"
+        },
+        {
+          "name": "ganbare-goemon-2-jp-sfc.tw.txt",
+          "bytes": 42332,
+          "sha256": "5be7d08bdd83f30d6bb415fb3ae32b283e55f13d5d3dc79a3407c654adc87979"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "rent-a-hero-jp-md",
+      "platform": "md",
+      "title": "出租英雄（Rent a Hero）",
+      "status": "available-for-testing",
+      "rom": "e537f718f8a36525dda57aae832c98c44aa63a2238be29aa71786063d8139dcb",
+      "roms": [
+        "e537f718f8a36525dda57aae832c98c44aa63a2238be29aa71786063d8139dcb"
+      ],
+      "version": "298291226f416dc7",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 2147,
+      "segments": 6610,
+      "tag": "pack-rent-a-hero-jp-md-e537f718-298291226f416dc7",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-rent-a-hero-jp-md-e537f718-298291226f416dc7/rent-a-hero-jp-md-e537f718-298291226f416dc7.zip",
+      "bytes": 1086646,
+      "sha256": "a9f242083b560f55064215b97711e0ae215e0fe672173514ba35d74e5e92228f",
+      "files": [
+        {
+          "name": "rent-a-hero-jp-md.system.bcan",
+          "bytes": 5363661,
+          "sha256": "75e86e0e9c1c4650467e11deb430d5f631cebf34991370be8a075669c7f30b39"
+        },
+        {
+          "name": "rent-a-hero-jp-md.tw.txt",
+          "bytes": 166125,
+          "sha256": "35da8d4c7fa28ec3e2387106ac75c378e4b80c6423f6ff6dcabc72e6aa4ec114"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "tengai-makyou-ii-manji-maru-jp-pcecd",
+      "platform": "pcecd",
+      "title": "天外魔境 II：卍丸",
+      "status": "available-for-testing",
+      "rom": "e5fbb3377042495afdddffba2e3270b532fa301014f6d4c6924efe8cce7667f1",
+      "roms": [
+        "e5fbb3377042495afdddffba2e3270b532fa301014f6d4c6924efe8cce7667f1"
+      ],
+      "version": "c32993291080cd0d",
+      "engine_revision": 130,
+      "languages": [
+        "tw"
+      ],
+      "records": 8471,
+      "segments": 28057,
+      "tag": "pack-tengai-makyou-ii-manji-maru-jp-pcecd-e5fbb337-c32993291080cd0d",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-tengai-makyou-ii-manji-maru-jp-pcecd-e5fbb337-c32993291080cd0d/tengai-makyou-ii-manji-maru-jp-pcecd-e5fbb337-c32993291080cd0d.zip",
+      "bytes": 5689964,
+      "sha256": "b91a09d68a2f1c69f42b8b2772902361a9476224ec893e64d141823b3eea9269",
+      "files": [
+        {
+          "name": "tengai-makyou-ii-manji-maru-jp-pcecd.system.bcan",
+          "bytes": 40120394,
+          "sha256": "c28421712c4760f035f2253fbb8e06f998d934aed2474e35d31196071ab5e465"
+        },
+        {
+          "name": "tengai-makyou-ii-manji-maru-jp-pcecd.tw.txt",
+          "bytes": 612526,
+          "sha256": "39e34a82a8038959ac040bccbc4588e3027fbf064e73df8a592a3d4a94144cf3"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    },
+    {
+      "game_id": "ganbare-goemon-karakuri-douchuu",
+      "platform": "fc",
+      "title": "大盜五右衛門",
+      "status": "available-for-testing",
+      "rom": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320",
+      "roms": [
+        "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320"
+      ],
+      "version": "7648b92b5a5947ed",
+      "engine_revision": 130,
+      "languages": [
+        "hk",
+        "tw"
+      ],
+      "records": 117,
+      "segments": 171,
+      "tag": "pack-ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed",
+      "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed/ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed.zip",
+      "bytes": 38712,
+      "sha256": "92fd2e9303256c25cca7adef576f67892649427637b3bb17da042f3373811480",
+      "files": [
+        {
+          "name": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320.hk.txt",
+          "bytes": 3955,
+          "sha256": "660e92e1e81f1a8b5fcfbd823a4c87c872335918229e46750ccd7c1bfbddd5f7"
+        },
+        {
+          "name": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320.system.bcan",
+          "bytes": 265160,
+          "sha256": "109dabbf18b5238cf6bb75b091819fe00dbe920021e0bd6c17eea5ebca18ca52"
+        },
+        {
+          "name": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320.tw.txt",
+          "bytes": 4030,
+          "sha256": "8c6d9d723d5b63b40b6ba8c1a82d8ee272fb3524ffd4114ad9eda2312b264ca2"
+        }
+      ],
+      "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "game_id": "famicom-jump-eiyuu-retsuden-jp",
+  "platform": "fc",
+  "title": "英雄列傳",
+  "status": "available-for-testing",
+  "rom": "6810c271c824df3e181c8b97f75c83850a8a7ef0f00808b1abbbcc351f02d1c7",
+  "roms": [
+    "6810c271c824df3e181c8b97f75c83850a8a7ef0f00808b1abbbcc351f02d1c7",
+    "976e9b665a274b05ad7fb3d179226ea9b8ab1f584a8f08c21ede1e716c617dc1"
+  ],
+  "version": "bacf915e07d6afce",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 1563,
+  "segments": 2312,
+  "tag": "pack-famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce/famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce.zip",
+  "bytes": 690578,
+  "sha256": "1b3dfab2c1d5bab2672e03e3ae2c8d19ca18cdb83bde0333aa25b9174f48d0e2",
+  "files": [
+    {
+      "name": "famicom-jump-eiyuu-retsuden-jp.hk.txt",
+      "bytes": 52227,
+      "sha256": "e059ed8b8c6a7d133ce5eb763060293b6b62aebe4eb7910cf4ce051129614c82"
+    },
+    {
+      "name": "famicom-jump-eiyuu-retsuden-jp.system.bcan",
+      "bytes": 8680665,
+      "sha256": "e621af2fa42886a3657912bbfac4e75801b1d4d709067085b6024d6d11a30f34"
+    },
+    {
+      "name": "famicom-jump-eiyuu-retsuden-jp.tw.txt",
+      "bytes": 53190,
+      "sha256": "79ee0dec6bf9977a84816cbd54944301055d51f1620b5e6e74d89837b6fcc177"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

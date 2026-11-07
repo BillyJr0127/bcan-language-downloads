@@ -1,0 +1,34 @@
+{
+  "game_id": "tengai-makyou-ii-manji-maru-jp-pcecd",
+  "platform": "pcecd",
+  "title": "天外魔境 II：卍丸",
+  "status": "available-for-testing",
+  "rom": "e5fbb3377042495afdddffba2e3270b532fa301014f6d4c6924efe8cce7667f1",
+  "roms": [
+    "e5fbb3377042495afdddffba2e3270b532fa301014f6d4c6924efe8cce7667f1"
+  ],
+  "version": "c32993291080cd0d",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 8471,
+  "segments": 28057,
+  "tag": "pack-tengai-makyou-ii-manji-maru-jp-pcecd-e5fbb337-c32993291080cd0d",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-tengai-makyou-ii-manji-maru-jp-pcecd-e5fbb337-c32993291080cd0d/tengai-makyou-ii-manji-maru-jp-pcecd-e5fbb337-c32993291080cd0d.zip",
+  "bytes": 5689964,
+  "sha256": "b91a09d68a2f1c69f42b8b2772902361a9476224ec893e64d141823b3eea9269",
+  "files": [
+    {
+      "name": "tengai-makyou-ii-manji-maru-jp-pcecd.system.bcan",
+      "bytes": 40120394,
+      "sha256": "c28421712c4760f035f2253fbb8e06f998d934aed2474e35d31196071ab5e465"
+    },
+    {
+      "name": "tengai-makyou-ii-manji-maru-jp-pcecd.tw.txt",
+      "bytes": 612526,
+      "sha256": "39e34a82a8038959ac040bccbc4588e3027fbf064e73df8a592a3d4a94144cf3"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

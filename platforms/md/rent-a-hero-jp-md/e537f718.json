@@ -1,0 +1,34 @@
+{
+  "game_id": "rent-a-hero-jp-md",
+  "platform": "md",
+  "title": "出租英雄（Rent a Hero）",
+  "status": "available-for-testing",
+  "rom": "e537f718f8a36525dda57aae832c98c44aa63a2238be29aa71786063d8139dcb",
+  "roms": [
+    "e537f718f8a36525dda57aae832c98c44aa63a2238be29aa71786063d8139dcb"
+  ],
+  "version": "298291226f416dc7",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 2147,
+  "segments": 6610,
+  "tag": "pack-rent-a-hero-jp-md-e537f718-298291226f416dc7",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-rent-a-hero-jp-md-e537f718-298291226f416dc7/rent-a-hero-jp-md-e537f718-298291226f416dc7.zip",
+  "bytes": 1086646,
+  "sha256": "a9f242083b560f55064215b97711e0ae215e0fe672173514ba35d74e5e92228f",
+  "files": [
+    {
+      "name": "rent-a-hero-jp-md.system.bcan",
+      "bytes": 5363661,
+      "sha256": "75e86e0e9c1c4650467e11deb430d5f631cebf34991370be8a075669c7f30b39"
+    },
+    {
+      "name": "rent-a-hero-jp-md.tw.txt",
+      "bytes": 166125,
+      "sha256": "35da8d4c7fa28ec3e2387106ac75c378e4b80c6423f6ff6dcabc72e6aa4ec114"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

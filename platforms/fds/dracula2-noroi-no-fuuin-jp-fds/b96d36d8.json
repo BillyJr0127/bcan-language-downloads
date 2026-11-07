@@ -1,0 +1,34 @@
+{
+  "game_id": "dracula2-noroi-no-fuuin-jp-fds",
+  "platform": "fds",
+  "title": "惡魔城二代：詛咒的封印（FDS）",
+  "status": "available-for-testing",
+  "rom": "b96d36d8c75fdbeae0dfe2da9037165314adc4f7aebca71df1a20ef476779773",
+  "roms": [
+    "b96d36d8c75fdbeae0dfe2da9037165314adc4f7aebca71df1a20ef476779773"
+  ],
+  "version": "fc7530e90e26fb91",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 142,
+  "segments": 398,
+  "tag": "pack-dracula2-noroi-no-fuuin-jp-fds-b96d36d8-fc7530e90e26fb91",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dracula2-noroi-no-fuuin-jp-fds-b96d36d8-fc7530e90e26fb91/dracula2-noroi-no-fuuin-jp-fds-b96d36d8-fc7530e90e26fb91.zip",
+  "bytes": 64507,
+  "sha256": "236498edc13f3183392ee20835e98e403a8b5ae353c8d2d0e6ca42b59047353d",
+  "files": [
+    {
+      "name": "dracula2-noroi-no-fuuin-jp-fds.system.bcan",
+      "bytes": 552844,
+      "sha256": "b5cc910c211c8e0ae5de7c12d4f901408b51f9c831021ddf3050890c183c88ef"
+    },
+    {
+      "name": "dracula2-noroi-no-fuuin-jp-fds.tw.txt",
+      "bytes": 5653,
+      "sha256": "ee7ee707ce6834a47fbfba94bd8c3dcc3f8f516dcb7a45cb6b44a71d738ea567"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

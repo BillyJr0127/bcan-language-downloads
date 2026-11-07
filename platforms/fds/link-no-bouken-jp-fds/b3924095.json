@@ -1,0 +1,34 @@
+{
+  "game_id": "link-no-bouken-jp-fds",
+  "platform": "fds",
+  "title": "林克的冒險／薩爾達傳說二代（FDS）",
+  "status": "available-for-testing",
+  "rom": "b3924095240595703c288c36414804613577212cf3e2e8afb6ff1eda49219d2d",
+  "roms": [
+    "b3924095240595703c288c36414804613577212cf3e2e8afb6ff1eda49219d2d"
+  ],
+  "version": "fcad13a10d4f54c9",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 151,
+  "segments": 288,
+  "tag": "pack-link-no-bouken-jp-fds-b3924095-fcad13a10d4f54c9",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-link-no-bouken-jp-fds-b3924095-fcad13a10d4f54c9/link-no-bouken-jp-fds-b3924095-fcad13a10d4f54c9.zip",
+  "bytes": 45645,
+  "sha256": "6b1483512d8a3e38b3d02245ab770026f5e93b53736a759943e2c6c177b9d898",
+  "files": [
+    {
+      "name": "link-no-bouken-jp-fds.system.bcan",
+      "bytes": 300957,
+      "sha256": "6982cbbcba8e3d22298b3ae5241939c03502bad12dd10ac2c7472346834a0a71"
+    },
+    {
+      "name": "link-no-bouken-jp-fds.tw.txt",
+      "bytes": 5342,
+      "sha256": "61a2555948f9f0a230d8b2ccd13d554d4707ff6d56cf520fd92bbeee99a047ed"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

@@ -1,0 +1,40 @@
+{
+  "game_id": "gg-jashin-no-kakusei",
+  "platform": "gg",
+  "title": "GG 邪神的覺醒",
+  "status": "available-for-testing",
+  "rom": "24190e0f3e2b54dc1ee6f9d824a0c78d4234e71637170e92996c311deb38894d",
+  "roms": [
+    "24190e0f3e2b54dc1ee6f9d824a0c78d4234e71637170e92996c311deb38894d"
+  ],
+  "version": "b46066f044f7420f",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 1400,
+  "segments": 2673,
+  "tag": "pack-gg-jashin-no-kakusei-24190e0f-b46066f044f7420f",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-jashin-no-kakusei-24190e0f-b46066f044f7420f/gg-jashin-no-kakusei-24190e0f-b46066f044f7420f.zip",
+  "bytes": 382464,
+  "sha256": "aac595ae5222f055874f56268884c1032a24ed5f9007a3c4a140595745267cfb",
+  "files": [
+    {
+      "name": "gg-jashin-no-kakusei.hk.txt",
+      "bytes": 52789,
+      "sha256": "d3bdd7cda5175e5cd241378b1adc8c03516da30ae1abdf8fffbbc5c6b2e37b51"
+    },
+    {
+      "name": "gg-jashin-no-kakusei.system.bcan",
+      "bytes": 2853991,
+      "sha256": "3f18ec67ebc94e745250b2d849dfffe7a68c8ec70810031d8a6392bba8694339"
+    },
+    {
+      "name": "gg-jashin-no-kakusei.tw.txt",
+      "bytes": 51007,
+      "sha256": "cd494a275c8a7bb4a064d4e2b5d1d44821e4f15acd89722a964b7ddb075d62c6"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

@@ -1,0 +1,34 @@
+{
+  "game_id": "vermilion-jp-md",
+  "platform": "md",
+  "title": "石中劍（Vermilion）",
+  "status": "available-for-testing",
+  "rom": "a76f3437700cff110bdd13c6a7d3192933ae8eea65488f71da9128c6917e1baf",
+  "roms": [
+    "a76f3437700cff110bdd13c6a7d3192933ae8eea65488f71da9128c6917e1baf"
+  ],
+  "version": "b1c5a810e9b28950",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 1341,
+  "segments": 2907,
+  "tag": "pack-vermilion-jp-md-a76f3437-b1c5a810e9b28950",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-vermilion-jp-md-a76f3437-b1c5a810e9b28950/vermilion-jp-md-a76f3437-b1c5a810e9b28950.zip",
+  "bytes": 581432,
+  "sha256": "2cde665694f944da617bbce778fff2412a31166d485e226d787ec056de82ba9d",
+  "files": [
+    {
+      "name": "vermilion-jp-md.system.bcan",
+      "bytes": 3584252,
+      "sha256": "0c0cfb6aa6ed98a9aea3590b120710cebc1621e9096a4683ab2f3ed25a1308bc"
+    },
+    {
+      "name": "vermilion-jp-md.tw.txt",
+      "bytes": 77879,
+      "sha256": "c1e749adc69c3d389fb0e8abf5ce69a09f4c1f105a81b7c63484f355ad6fb431"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

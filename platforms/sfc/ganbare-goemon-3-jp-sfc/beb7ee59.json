@@ -1,0 +1,34 @@
+{
+  "game_id": "ganbare-goemon-3-jp-sfc",
+  "platform": "sfc",
+  "title": "大盜五右衛門三代（超任）",
+  "status": "available-for-testing",
+  "rom": "beb7ee591116d2a625712abe44aea949eb7762fe8d01ce32dcce70fefcf5eff3",
+  "roms": [
+    "beb7ee591116d2a625712abe44aea949eb7762fe8d01ce32dcce70fefcf5eff3"
+  ],
+  "version": "820a5c905eb16651",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 1008,
+  "segments": 4396,
+  "tag": "pack-ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651/ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651.zip",
+  "bytes": 434346,
+  "sha256": "0c2c22dcd2eaed326fc991e08e082bf5adc403d79f698196feaaeda0397e28b7",
+  "files": [
+    {
+      "name": "ganbare-goemon-3-jp-sfc.system.bcan",
+      "bytes": 2177101,
+      "sha256": "2e2f5b94cba1f0db64f37a0bfb722e49b0e7d65b3651bf3af0d4ca3809ceacf8"
+    },
+    {
+      "name": "ganbare-goemon-3-jp-sfc.tw.txt",
+      "bytes": 94567,
+      "sha256": "cf3b65d3520eb5d6d8d1737489b83f71d819d16e5ca60d6d1fc3db94e01d5608"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

@@ -1,0 +1,34 @@
+{
+  "game_id": "ganbare-goemon-2-jp",
+  "platform": "fc",
+  "title": "大盜五右衛門二代",
+  "status": "available-for-testing",
+  "rom": "57dd19aac878b61bfd995cb42c2084262de5b0da8f02b42362d153fa3118e5b2",
+  "roms": [
+    "57dd19aac878b61bfd995cb42c2084262de5b0da8f02b42362d153fa3118e5b2"
+  ],
+  "version": "68f1ebb166d197b9",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 156,
+  "segments": 347,
+  "tag": "pack-ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9/ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9.zip",
+  "bytes": 50277,
+  "sha256": "e80508775acd864eaff76e48e92368e749bdc10750445863b0221b8d0c9f9902",
+  "files": [
+    {
+      "name": "ganbare-goemon-2-jp.system.bcan",
+      "bytes": 360138,
+      "sha256": "f376366d1a3ceaec28041bbdad2fbd7d6f4a989c3a19f6f25cede14c5fe77cb1"
+    },
+    {
+      "name": "ganbare-goemon-2-jp.tw.txt",
+      "bytes": 6516,
+      "sha256": "33e097b99976a2b78d225869b1dc8f5f77bfdae9f0a1ed08cc737935680d5b79"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

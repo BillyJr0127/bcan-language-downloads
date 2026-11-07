@@ -1,0 +1,35 @@
+{
+  "game_id": "lunar-eternal-blue-jp-mcd",
+  "platform": "mcd",
+  "title": "銀河之星二代（Lunar: Eternal Blue）",
+  "status": "available-for-testing",
+  "rom": "5ff88152ba4c7a710a961609ea7cb07b985ddd99b7e21f0aeeaf6e224ce9b4e7",
+  "roms": [
+    "5ff88152ba4c7a710a961609ea7cb07b985ddd99b7e21f0aeeaf6e224ce9b4e7",
+    "7c5c14cea77fb2673d6fdc7272baf00d230087db9053bc86c1a19a32e9109a2e"
+  ],
+  "version": "84eec791a8575a5a",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 4818,
+  "segments": 24784,
+  "tag": "pack-lunar-eternal-blue-jp-mcd-5ff88152-84eec791a8575a5a",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-lunar-eternal-blue-jp-mcd-5ff88152-84eec791a8575a5a/lunar-eternal-blue-jp-mcd-5ff88152-84eec791a8575a5a.zip",
+  "bytes": 5119094,
+  "sha256": "8ae7ba942fdb26491ae6e72d2a5b472c9519ae59aca56ade3896ae449e7a08e4",
+  "files": [
+    {
+      "name": "lunar-eternal-blue-jp-mcd.system.bcan",
+      "bytes": 29897087,
+      "sha256": "82bf909b22ed368f372832ad4df5fbd67166f70145bfd35f1de2a87e4c3d2510"
+    },
+    {
+      "name": "lunar-eternal-blue-jp-mcd.tw.txt",
+      "bytes": 533325,
+      "sha256": "9e7bd876e97ce121caff6058b6eb6bec43dbe41f6d7ac7a64637a0175c83b58c"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

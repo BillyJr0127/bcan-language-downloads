@@ -1,0 +1,34 @@
+{
+  "game_id": "ganbare-goemon-yuki-hime-jp-sfc",
+  "platform": "sfc",
+  "title": "大盜五右衛門：雪姬救出繪卷（超任）",
+  "status": "available-for-testing",
+  "rom": "704480af8159c700252c43ec9a2853dc4bea04cd1f5f193531f66165ce471d5d",
+  "roms": [
+    "704480af8159c700252c43ec9a2853dc4bea04cd1f5f193531f66165ce471d5d"
+  ],
+  "version": "917d2190e0e7ea5a",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 490,
+  "segments": 1191,
+  "tag": "pack-ganbare-goemon-yuki-hime-jp-sfc-704480af-917d2190e0e7ea5a",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-yuki-hime-jp-sfc-704480af-917d2190e0e7ea5a/ganbare-goemon-yuki-hime-jp-sfc-704480af-917d2190e0e7ea5a.zip",
+  "bytes": 181766,
+  "sha256": "fe572e511979bfcd43274fd8b3135820c1ec8ba85b46725e32bc840d97c8d23c",
+  "files": [
+    {
+      "name": "ganbare-goemon-yuki-hime-jp-sfc.system.bcan",
+      "bytes": 1312031,
+      "sha256": "a056488384462d0af3af56757b4ee370670cb95f46ae469aa2b8b06b0e54c641"
+    },
+    {
+      "name": "ganbare-goemon-yuki-hime-jp-sfc.tw.txt",
+      "bytes": 31914,
+      "sha256": "2184f071e1c8be08919f19e958ffd7f90ca9459f2a495a661569977e2ab203fa"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

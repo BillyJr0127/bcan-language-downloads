@@ -1,0 +1,34 @@
+{
+  "game_id": "seiken-densetsu-2-jp-sfc",
+  "platform": "sfc",
+  "title": "聖劍傳說二代",
+  "status": "available-for-testing",
+  "rom": "7fd1747eb4333f502d5fe6df7267342e4b4a399ab65b57f0a139e5f9fc02ab9d",
+  "roms": [
+    "7fd1747eb4333f502d5fe6df7267342e4b4a399ab65b57f0a139e5f9fc02ab9d"
+  ],
+  "version": "78260c7e9e84ebbc",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 1089,
+  "segments": 3683,
+  "tag": "pack-seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc/seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc.zip",
+  "bytes": 508856,
+  "sha256": "55f2812e79c465abddc2a178fc20ed4181d02a8c8704c453a85c017cf2665892",
+  "files": [
+    {
+      "name": "seiken-densetsu-2-jp-sfc.system.bcan",
+      "bytes": 2484452,
+      "sha256": "5e4a35df7c6fdd3bb2ffbe1a9c4e462254865b95df591685fdb03563eace9629"
+    },
+    {
+      "name": "seiken-densetsu-2-jp-sfc.tw.txt",
+      "bytes": 105484,
+      "sha256": "95ba2a09208791612b4f0b1d6921091eb2fa7a5bc0f68573dd245cc1087822f7"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

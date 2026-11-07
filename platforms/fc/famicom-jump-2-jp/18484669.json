@@ -1,0 +1,34 @@
+{
+  "game_id": "famicom-jump-2-jp",
+  "platform": "fc",
+  "title": "英雄列傳二代",
+  "status": "available-for-testing",
+  "rom": "184846698189cb935bbe2adab9a16864fca34245292475adc82913338c0d73a1",
+  "roms": [
+    "184846698189cb935bbe2adab9a16864fca34245292475adc82913338c0d73a1"
+  ],
+  "version": "7cf2cecd562d1267",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 2558,
+  "segments": 6826,
+  "tag": "pack-famicom-jump-2-jp-18484669-7cf2cecd562d1267",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-2-jp-18484669-7cf2cecd562d1267/famicom-jump-2-jp-18484669-7cf2cecd562d1267.zip",
+  "bytes": 821004,
+  "sha256": "d5f0b719d479b2f495f9d848e61f0121d2051277c3ebf33f002dbc6f372c0637",
+  "files": [
+    {
+      "name": "famicom-jump-2-jp.system.bcan",
+      "bytes": 5186737,
+      "sha256": "8b99b75515dc34c46b1826089a2df400fbd6b9fc05795ef79e5d75e17e4e2b50"
+    },
+    {
+      "name": "famicom-jump-2-jp.tw.txt",
+      "bytes": 154115,
+      "sha256": "9af037d42e218ccf1f7e77edba3736043e423b699c7c5bba1984c0bfd049e666"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

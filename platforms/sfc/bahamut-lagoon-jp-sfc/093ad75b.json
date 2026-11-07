@@ -1,0 +1,34 @@
+{
+  "game_id": "bahamut-lagoon-jp-sfc",
+  "platform": "sfc",
+  "title": "神龍奇兵（Bahamut Lagoon）",
+  "status": "available-for-testing",
+  "rom": "093ad75b0bf11223a69ddf35f0b442e1ca9d92f5c75acef94ab14cfed16d8673",
+  "roms": [
+    "093ad75b0bf11223a69ddf35f0b442e1ca9d92f5c75acef94ab14cfed16d8673"
+  ],
+  "version": "efa371a801269368",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 4553,
+  "segments": 12705,
+  "tag": "pack-bahamut-lagoon-jp-sfc-093ad75b-efa371a801269368",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-bahamut-lagoon-jp-sfc-093ad75b-efa371a801269368/bahamut-lagoon-jp-sfc-093ad75b-efa371a801269368.zip",
+  "bytes": 1364910,
+  "sha256": "18e3fcf4268c10e81dd7cd2cc0e860918f6b4ea5ed8ebe122d72a8a10b67674d",
+  "files": [
+    {
+      "name": "bahamut-lagoon-jp-sfc.system.bcan",
+      "bytes": 9564724,
+      "sha256": "93c61c56d200429e7fd7ab60f7f92bfec8a7c4542bfd7267688c9b41e9aea076"
+    },
+    {
+      "name": "bahamut-lagoon-jp-sfc.tw.txt",
+      "bytes": 297411,
+      "sha256": "056d63c618494cc219dbde1d5137ccf6fe0397a5acb1d04f7ed15ceb9bc702fb"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

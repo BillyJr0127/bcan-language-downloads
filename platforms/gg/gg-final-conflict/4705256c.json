@@ -1,0 +1,40 @@
+{
+  "game_id": "gg-final-conflict",
+  "platform": "gg",
+  "title": "GG Final Conflict",
+  "status": "available-for-testing",
+  "rom": "4705256cc1a242aab7fea170369eb64723f796e27c6edfe0f93a674a8ba00f42",
+  "roms": [
+    "4705256cc1a242aab7fea170369eb64723f796e27c6edfe0f93a674a8ba00f42"
+  ],
+  "version": "89dd88112d08e1d2",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 1751,
+  "segments": 3406,
+  "tag": "pack-gg-final-conflict-4705256c-89dd88112d08e1d2",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-gg-final-conflict-4705256c-89dd88112d08e1d2/gg-final-conflict-4705256c-89dd88112d08e1d2.zip",
+  "bytes": 1032120,
+  "sha256": "40e2c05810b451bdc36c4874313f1d0e753d3b471eae31e4302d19f4a1264a3d",
+  "files": [
+    {
+      "name": "gg-final-conflict.hk.txt",
+      "bytes": 67187,
+      "sha256": "ec422ae33499e1ea9d0fc3b47d243491aba0388fb89d784334d2402c0857b247"
+    },
+    {
+      "name": "gg-final-conflict.system.bcan",
+      "bytes": 5181181,
+      "sha256": "843a8f643c65fdf958e1ee2884803dbc62ddcc8847cb62cb9b7edb6132c222a1"
+    },
+    {
+      "name": "gg-final-conflict.tw.txt",
+      "bytes": 68486,
+      "sha256": "8fca2e6e94fe8e705983e101d6fc79d01adfc7cc61da1f4e97b83d7ff388f524"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

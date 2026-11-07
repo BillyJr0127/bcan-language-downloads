@@ -1,0 +1,34 @@
+{
+  "game_id": "ganbare-goemon-4-jp-sfc",
+  "platform": "sfc",
+  "title": "大盜五右衛門四代（超任）",
+  "status": "available-for-testing",
+  "rom": "6f0c79c2bf342f33ea265a7343e3f1c163b49c32f6e4a717bf5f3c6fcbf576de",
+  "roms": [
+    "6f0c79c2bf342f33ea265a7343e3f1c163b49c32f6e4a717bf5f3c6fcbf576de"
+  ],
+  "version": "a0a953dcca508971",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 539,
+  "segments": 2253,
+  "tag": "pack-ganbare-goemon-4-jp-sfc-6f0c79c2-a0a953dcca508971",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-4-jp-sfc-6f0c79c2-a0a953dcca508971/ganbare-goemon-4-jp-sfc-6f0c79c2-a0a953dcca508971.zip",
+  "bytes": 239786,
+  "sha256": "6f0de499f78482528e42ea3e0baf22026e84dabb29ac2e45cd4a0251533940b6",
+  "files": [
+    {
+      "name": "ganbare-goemon-4-jp-sfc.system.bcan",
+      "bytes": 1293734,
+      "sha256": "5a619770b95021502f19a6752b7b5571296b69af7304ae16513a8cd724d32a59"
+    },
+    {
+      "name": "ganbare-goemon-4-jp-sfc.tw.txt",
+      "bytes": 50131,
+      "sha256": "f5a0d007bdc8d874325a2277cae8c151f6af7d401b72e40f6bf9e2208cb10d53"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

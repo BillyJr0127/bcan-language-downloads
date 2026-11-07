@@ -1,0 +1,34 @@
+{
+  "game_id": "dbz-super-saiya-densetsu-jp-sfc",
+  "platform": "sfc",
+  "title": "七龍珠 Z：超級賽亞人傳說",
+  "status": "available-for-testing",
+  "rom": "43ac4b87365b1d34b62f7cd580068cbb15467186865cc92f140677cf18733c5e",
+  "roms": [
+    "43ac4b87365b1d34b62f7cd580068cbb15467186865cc92f140677cf18733c5e"
+  ],
+  "version": "b520210ab7229d5f",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 1076,
+  "segments": 2462,
+  "tag": "pack-dbz-super-saiya-densetsu-jp-sfc-43ac4b87-b520210ab7229d5f",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dbz-super-saiya-densetsu-jp-sfc-43ac4b87-b520210ab7229d5f/dbz-super-saiya-densetsu-jp-sfc-43ac4b87-b520210ab7229d5f.zip",
+  "bytes": 434804,
+  "sha256": "a3292fd962a7b5d6c90195ebbba65a84dbc590dda9881ef2f4a401228875bccf",
+  "files": [
+    {
+      "name": "dbz-super-saiya-densetsu-jp-sfc.system.bcan",
+      "bytes": 2858378,
+      "sha256": "40d5ba4aaa0e76a68a7dbe58f8931b45fb498ceba9dca43d5c232a2d36bce87d"
+    },
+    {
+      "name": "dbz-super-saiya-densetsu-jp-sfc.tw.txt",
+      "bytes": 61865,
+      "sha256": "44d9f48b45c533f5864bbf5614879004543c62c2d20d0090b7d7953292949775"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

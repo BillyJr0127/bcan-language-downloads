@@ -1,0 +1,40 @@
+{
+  "game_id": "ganbare-goemon-karakuri-douchuu",
+  "platform": "fc",
+  "title": "大盜五右衛門",
+  "status": "available-for-testing",
+  "rom": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320",
+  "roms": [
+    "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320"
+  ],
+  "version": "7648b92b5a5947ed",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 117,
+  "segments": 171,
+  "tag": "pack-ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed/ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed.zip",
+  "bytes": 38712,
+  "sha256": "92fd2e9303256c25cca7adef576f67892649427637b3bb17da042f3373811480",
+  "files": [
+    {
+      "name": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320.hk.txt",
+      "bytes": 3955,
+      "sha256": "660e92e1e81f1a8b5fcfbd823a4c87c872335918229e46750ccd7c1bfbddd5f7"
+    },
+    {
+      "name": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320.system.bcan",
+      "bytes": 265160,
+      "sha256": "109dabbf18b5238cf6bb75b091819fe00dbe920021e0bd6c17eea5ebca18ca52"
+    },
+    {
+      "name": "e9d91b075a930ed84c2fccbf9bcde78e2c7018c6b10499e21d012dca8b020320.tw.txt",
+      "bytes": 4030,
+      "sha256": "8c6d9d723d5b63b40b6ba8c1a82d8ee272fb3524ffd4114ad9eda2312b264ca2"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

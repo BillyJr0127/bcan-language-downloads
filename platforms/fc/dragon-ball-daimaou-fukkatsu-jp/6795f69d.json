@@ -1,0 +1,40 @@
+{
+  "game_id": "dragon-ball-daimaou-fukkatsu-jp",
+  "platform": "fc",
+  "title": "七龍珠 大魔王復活",
+  "status": "available-for-testing",
+  "rom": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb",
+  "roms": [
+    "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb"
+  ],
+  "version": "42420c300401e60c",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 891,
+  "segments": 1286,
+  "tag": "pack-dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c/dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c.zip",
+  "bytes": 244087,
+  "sha256": "ed47375eadc4aed9a415db10423655a07a9882fd84f879d78cf97653c0770499",
+  "files": [
+    {
+      "name": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb.hk.txt",
+      "bytes": 33457,
+      "sha256": "2f25d9ddd5f2fceefb4f3688e25b6bce0d8d1475dbd79b708e7a0f239afdaefd"
+    },
+    {
+      "name": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb.system.bcan",
+      "bytes": 1786752,
+      "sha256": "9b713519767661e168fab679da9a8299b5852a676bb28aa68dd995078f1d48b0"
+    },
+    {
+      "name": "6795f69d0aaa1228f0a32bc0fd2012511e89e5998f2980200ccdad7a9143b3fb.tw.txt",
+      "bytes": 32757,
+      "sha256": "a8120757bea25cf8aae873cc0a01b70fdfaddde3244c359752b484a0035bd1f8"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

@@ -1,0 +1,41 @@
+{
+  "game_id": "dragon-quest-iv-jp",
+  "platform": "fc",
+  "title": "勇者鬥惡龍 IV",
+  "status": "available-for-testing",
+  "rom": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf",
+  "roms": [
+    "185bd72a6629f36c18bc9e43766855db7d5221a52d25472644962c13db7f0c87",
+    "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf"
+  ],
+  "version": "248fcde03cd914fd",
+  "engine_revision": 130,
+  "languages": [
+    "hk",
+    "tw"
+  ],
+  "records": 3359,
+  "segments": 9457,
+  "tag": "pack-dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd/dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd.zip",
+  "bytes": 2825008,
+  "sha256": "c4185494a80926179b02cc149fc0f9de723f114e44579b0bfaf572d638b7c358",
+  "files": [
+    {
+      "name": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf.hk.txt",
+      "bytes": 207965,
+      "sha256": "0cacb7ff83214b17a379e4aade1006c68cce1583819ce012f50c124f22a01b92"
+    },
+    {
+      "name": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf.system.bcan",
+      "bytes": 19583547,
+      "sha256": "32e0b66a26325eaae2056ba1ad56b482991f7259e82b9b6bd684a9ac3ab21fcd"
+    },
+    {
+      "name": "be1d76e38698b24e86162d27d1099edac0507596fa1c93f279d911110cddcedf.tw.txt",
+      "bytes": 201634,
+      "sha256": "0548626365e1bd4adc2117bcb694667f5cd6829dac2bb90643bc50b18d337d9d"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

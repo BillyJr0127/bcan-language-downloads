@@ -1,0 +1,36 @@
+{
+  "game_id": "dragon-ball-3-gokuu-den-jp",
+  "platform": "fc",
+  "title": "七龍珠三代：悟空傳",
+  "status": "available-for-testing",
+  "rom": "3b5929ecf790e39bf6dc435e3add5aa6bdbdd3bfec5ce41cffb798bcea1f9da3",
+  "roms": [
+    "3b5929ecf790e39bf6dc435e3add5aa6bdbdd3bfec5ce41cffb798bcea1f9da3",
+    "697c14da1378dcc231b836706c075fddd409ef2a7c25828b0062a21832a66be3",
+    "b7f865e4f7e80064982979f16afc659d9607519b8b858482f3d02475fb986c2b"
+  ],
+  "version": "29221c250914bff9",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 1508,
+  "segments": 2098,
+  "tag": "pack-dragon-ball-3-gokuu-den-jp-3b5929ec-29221c250914bff9",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-ball-3-gokuu-den-jp-3b5929ec-29221c250914bff9/dragon-ball-3-gokuu-den-jp-3b5929ec-29221c250914bff9.zip",
+  "bytes": 1206152,
+  "sha256": "9960ac3bec9959df9b2283c3d15b6c7d6f6ffecfb3febc73cc1306f37892c9d1",
+  "files": [
+    {
+      "name": "dragon-ball-3-gokuu-den-jp.system.bcan",
+      "bytes": 9720636,
+      "sha256": "5adabcec52b856fc61eeb9fd831cfc31805e0550b8ea95b3eb735a51aa898fee"
+    },
+    {
+      "name": "dragon-ball-3-gokuu-den-jp.tw.txt",
+      "bytes": 59781,
+      "sha256": "1a1162458aca1c3db480fd2137e52466f0d300b520afec8ec9aa4f9b22186561"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

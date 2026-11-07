@@ -1,0 +1,34 @@
+{
+  "game_id": "tengai-makyou-ziria-jp-pcecd",
+  "platform": "pcecd",
+  "title": "天外魔境 ZIRIA（一代）",
+  "status": "available-for-testing",
+  "rom": "b8720d0e063be2e00390e104207512e6377f9495dc38afa9b53bffcab9c9ade2",
+  "roms": [
+    "b8720d0e063be2e00390e104207512e6377f9495dc38afa9b53bffcab9c9ade2"
+  ],
+  "version": "cdbfe07ee25d7e33",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 5359,
+  "segments": 13232,
+  "tag": "pack-tengai-makyou-ziria-jp-pcecd-b8720d0e-cdbfe07ee25d7e33",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-tengai-makyou-ziria-jp-pcecd-b8720d0e-cdbfe07ee25d7e33/tengai-makyou-ziria-jp-pcecd-b8720d0e-cdbfe07ee25d7e33.zip",
+  "bytes": 1490031,
+  "sha256": "e35334959f545534ba0664a0e8d358d8cf58e162b35a8fd7df956adbec3a23e4",
+  "files": [
+    {
+      "name": "tengai-makyou-ziria-jp-pcecd.system.bcan",
+      "bytes": 10333665,
+      "sha256": "766029fad90e86dbd15eb0fa18347986f3d6a74185d642b31da701344193a180"
+    },
+    {
+      "name": "tengai-makyou-ziria-jp-pcecd.tw.txt",
+      "bytes": 299778,
+      "sha256": "291627bca02fdcf6f90dadef45781f9fb5938c34cd9bd7017542bbcd5f3e01e1"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}

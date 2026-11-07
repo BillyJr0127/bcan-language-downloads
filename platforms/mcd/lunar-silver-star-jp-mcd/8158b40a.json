@@ -1,0 +1,34 @@
+{
+  "game_id": "lunar-silver-star-jp-mcd",
+  "platform": "mcd",
+  "title": "銀河之星（Lunar: The Silver Star）",
+  "status": "available-for-testing",
+  "rom": "8158b40a63430e0152eb28b3ded5581c1cbec70b8ce40e2920a08936a4c65053",
+  "roms": [
+    "8158b40a63430e0152eb28b3ded5581c1cbec70b8ce40e2920a08936a4c65053"
+  ],
+  "version": "23d60e5b5e8bc301",
+  "engine_revision": 130,
+  "languages": [
+    "tw"
+  ],
+  "records": 5360,
+  "segments": 20317,
+  "tag": "pack-lunar-silver-star-jp-mcd-8158b40a-23d60e5b5e8bc301",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-lunar-silver-star-jp-mcd-8158b40a-23d60e5b5e8bc301/lunar-silver-star-jp-mcd-8158b40a-23d60e5b5e8bc301.zip",
+  "bytes": 2460565,
+  "sha256": "79ed34b5117bca302e7b8c1e5bebc78d78b2cfe5cdec7fa73b1f5c581833b846",
+  "files": [
+    {
+      "name": "lunar-silver-star-jp-mcd.system.bcan",
+      "bytes": 12236552,
+      "sha256": "38009c7c24b5a1004453503ba72ae1bf2f1bdc28ff88b46c3aeb655964601b57"
+    },
+    {
+      "name": "lunar-silver-star-jp-mcd.tw.txt",
+      "bytes": 481127,
+      "sha256": "b427d0470173d8a56b78276c8067005068a17369855b697c316d5e9459c908d3"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。"
+}
