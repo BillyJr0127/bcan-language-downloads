@@ -17,7 +17,7 @@
 | 聖鬥士星矢：黃金傳說 | tw | [4a455c58](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39/saint-seiya-ougon-densetsu-jp-4a455c58-58f41706e538fa39.zip) | 0.12 MiB |
 | 大盜五右衛門二代 | tw | [57dd19aa](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9/ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9.zip) | 0.05 MiB |
 | 七龍珠 大魔王復活 | hk, tw | [6795f69d](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c/dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c.zip) | 0.23 MiB |
-| 英雄列傳 | hk, tw | [6810c271](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce/famicom-jump-eiyuu-retsuden-jp-6810c271-bacf915e07d6afce.zip) | 0.66 MiB |
+| 英雄列傳 | hk, tw | [6810c271](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-eiyuu-retsuden-jp-6810c271-5b49db94ee6f2f3a/famicom-jump-eiyuu-retsuden-jp-6810c271-5b49db94ee6f2f3a.zip) | 1.01 MiB |
 | 勇者鬥惡龍 IV | hk, tw | [be1d76e3](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd/dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd.zip) | 2.69 MiB |
 | 大盜五右衛門 | hk, tw | [e9d91b07](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed/ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed.zip) | 0.04 MiB |
 
@@ -40,7 +40,7 @@
 | 神龍奇兵 | tw | [7c8da2f7](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-bahamut-lagoon-jp-sfc-7c8da2f7-bb8e0788a6f98fbf/bahamut-lagoon-jp-sfc-7c8da2f7-bb8e0788a6f98fbf.zip) | 1.3 MiB |
 | 聖劍傳說二代 | tw | [7fd1747e](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc/seiken-densetsu-2-jp-sfc-7fd1747e-78260c7e9e84ebbc.zip) | 0.49 MiB |
 | 七龍珠 Z：超級賽亞人傳說 | tw | [962aa7a0](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dbz-super-saiya-densetsu-jp-sfc-962aa7a0-3b9214f25279fd01/dbz-super-saiya-densetsu-jp-sfc-962aa7a0-3b9214f25279fd01.zip) | 0.4 MiB |
-| 勇者鬥惡龍 V | hk, tw | [9f9e7b57](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64/dragon-quest-v-jp-sfc-9f9e7b57-b2fef3b061c31f64.zip) | 2.27 MiB |
+| 勇者鬥惡龍 V | hk, tw | [9f9e7b57](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-v-jp-sfc-9f9e7b57-28d0b7accff25b76/dragon-quest-v-jp-sfc-9f9e7b57-28d0b7accff25b76.zip) | 2.27 MiB |
 | 大盜五右衛門三代（超任） | tw | [beb7ee59](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651/ganbare-goemon-3-jp-sfc-beb7ee59-820a5c905eb16651.zip) | 0.41 MiB |
 | 大盜五右衛門二代（超任） | tw | [e4bd9812](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-2-jp-sfc-e4bd9812-126309a03fcbfbf6/ganbare-goemon-2-jp-sfc-e4bd9812-126309a03fcbfbf6.zip) | 0.29 MiB |
 
