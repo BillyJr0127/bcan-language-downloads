@@ -1,0 +1,39 @@
+{
+  "game_id": "contra-jp",
+  "platform": "fc",
+  "title": "魂斗羅",
+  "engine_revision": 146,
+  "rom": "b5ed8649d847c66fed706205e3c1a614d3e629ca42a8e6b3cb228a0531113d2f",
+  "roms": [
+    "b5ed8649d847c66fed706205e3c1a614d3e629ca42a8e6b3cb228a0531113d2f"
+  ],
+  "version": "c67f10650bf507f7",
+  "languages": [
+    "tw"
+  ],
+  "records": 70,
+  "segments": 120,
+  "tag": "pack-contra-jp-b5ed8649-c67f10650bf507f7",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-contra-jp-b5ed8649-c67f10650bf507f7/contra-jp-b5ed8649-c67f10650bf507f7.zip",
+  "bytes": 31222,
+  "sha256": "a58d428cc07f6c691854717475ad292c47851a1a7a9345030972c635684f5b07",
+  "files": [
+    {
+      "name": "contra-jp.system.bcan",
+      "bytes": 202230,
+      "sha256": "cafbac1d08dabc41abedac23d78bfb20742731bfb102154442d211b2d89d362c"
+    },
+    {
+      "name": "contra-jp.tw.txt",
+      "bytes": 1862,
+      "sha256": "433081b20f67f26fc9c57317f39d87f1fb4a82b319450db4eb13666450a87ddc"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。",
+  "famicom": [
+    {
+      "rom": "b5ed8649d847c66fed706205e3c1a614d3e629ca42a8e6b3cb228a0531113d2f",
+      "header": "4e45531a081070183000000000000001"
+    }
+  ]
+}

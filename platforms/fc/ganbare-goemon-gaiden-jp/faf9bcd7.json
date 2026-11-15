@@ -1,0 +1,39 @@
+{
+  "game_id": "ganbare-goemon-gaiden-jp",
+  "platform": "fc",
+  "title": "大盜五右衛門外傳：消失的黃金煙斗",
+  "engine_revision": 147,
+  "rom": "faf9bcd7dc774a630afe15ac193c0f6567aee39ab46d71324c175a611ccb68ea",
+  "roms": [
+    "faf9bcd7dc774a630afe15ac193c0f6567aee39ab46d71324c175a611ccb68ea"
+  ],
+  "version": "fc1e272d2e640c2a",
+  "languages": [
+    "tw"
+  ],
+  "records": 1626,
+  "segments": 2822,
+  "tag": "pack-ganbare-goemon-gaiden-jp-faf9bcd7-fc1e272d2e640c2a",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-gaiden-jp-faf9bcd7-fc1e272d2e640c2a/ganbare-goemon-gaiden-jp-faf9bcd7-fc1e272d2e640c2a.zip",
+  "bytes": 453865,
+  "sha256": "cc683747fa1312cbf884e10733c236142d02e03fdedd300bf1824ed8a51e0d84",
+  "files": [
+    {
+      "name": "ganbare-goemon-gaiden-jp.system.bcan",
+      "bytes": 3351939,
+      "sha256": "2a1b58789b85772f35666c76f96b30806908dca316daf2885dbbfa428899389e"
+    },
+    {
+      "name": "ganbare-goemon-gaiden-jp.tw.txt",
+      "bytes": 54446,
+      "sha256": "a8cb08f70ee24eafcfb6ce60296a456f94f5890a7e61665aa403612c4a37c4bc"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。",
+  "famicom": [
+    {
+      "rom": "faf9bcd7dc774a630afe15ac193c0f6567aee39ab46d71324c175a611ccb68ea",
+      "header": "4e45531a102092183000700000000001"
+    }
+  ]
+}

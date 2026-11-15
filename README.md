@@ -18,8 +18,12 @@
 | 大盜五右衛門二代 | tw | [57dd19aa](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9/ganbare-goemon-2-jp-57dd19aa-68f1ebb166d197b9.zip) | 0.05 MiB |
 | 七龍珠 大魔王復活 | hk, tw | [6795f69d](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c/dragon-ball-daimaou-fukkatsu-jp-6795f69d-42420c300401e60c.zip) | 0.23 MiB |
 | 英雄列傳 | hk, tw | [6810c271](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-famicom-jump-eiyuu-retsuden-jp-6810c271-5b49db94ee6f2f3a/famicom-jump-eiyuu-retsuden-jp-6810c271-5b49db94ee6f2f3a.zip) | 1.01 MiB |
+| 月風魔傳 | tw | [889f2db8](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-getsufuu-maden-jp-889f2db8-a454f993eaaf02d8/getsufuu-maden-jp-889f2db8-a454f993eaaf02d8.zip) | 0.04 MiB |
+| 魂斗羅 | tw | [b5ed8649](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-contra-jp-b5ed8649-c67f10650bf507f7/contra-jp-b5ed8649-c67f10650bf507f7.zip) | 0.03 MiB |
 | 勇者鬥惡龍 IV | hk, tw | [be1d76e3](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd/dragon-quest-iv-jp-be1d76e3-248fcde03cd914fd.zip) | 2.69 MiB |
+| 半熟英雄 | tw | [c2e0caa7](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-hanjuku-hero-jp-c2e0caa7-ed2fadbcce0895d8/hanjuku-hero-jp-c2e0caa7-ed2fadbcce0895d8.zip) | 0.14 MiB |
 | 大盜五右衛門 | hk, tw | [e9d91b07](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed/ganbare-goemon-karakuri-douchuu-e9d91b07-7648b92b5a5947ed.zip) | 0.04 MiB |
+| 大盜五右衛門外傳：消失的黃金煙斗 | tw | [faf9bcd7](https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-ganbare-goemon-gaiden-jp-faf9bcd7-fc1e272d2e640c2a/ganbare-goemon-gaiden-jp-faf9bcd7-fc1e272d2e640c2a.zip) | 0.43 MiB |
 
 ## 任天堂 FDS
 

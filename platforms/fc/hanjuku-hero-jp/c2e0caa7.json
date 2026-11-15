@@ -1,0 +1,39 @@
+{
+  "game_id": "hanjuku-hero-jp",
+  "platform": "fc",
+  "title": "半熟英雄",
+  "engine_revision": 156,
+  "rom": "c2e0caa791f5285490aa81673aeabd4300ad4f7377ccec7238dc801caa63b12b",
+  "roms": [
+    "c2e0caa791f5285490aa81673aeabd4300ad4f7377ccec7238dc801caa63b12b"
+  ],
+  "version": "ed2fadbcce0895d8",
+  "languages": [
+    "tw"
+  ],
+  "records": 450,
+  "segments": 750,
+  "tag": "pack-hanjuku-hero-jp-c2e0caa7-ed2fadbcce0895d8",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-hanjuku-hero-jp-c2e0caa7-ed2fadbcce0895d8/hanjuku-hero-jp-c2e0caa7-ed2fadbcce0895d8.zip",
+  "bytes": 142289,
+  "sha256": "441fdd099ca95f8fa294223779ab3561588e3d6fc36e8216c69ca780d81e2b06",
+  "files": [
+    {
+      "name": "hanjuku-hero-jp.system.bcan",
+      "bytes": 1013217,
+      "sha256": "3d8bae96d7b52159a166300fe287b02669c3d58876247c03e182bf57061a7b07"
+    },
+    {
+      "name": "hanjuku-hero-jp.tw.txt",
+      "bytes": 12791,
+      "sha256": "c06343241c10f18efb4797a1a65ca22df9e9f6fbe76c4724d264886ff1875050"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。",
+  "famicom": [
+    {
+      "rom": "c2e0caa791f5285490aa81673aeabd4300ad4f7377ccec7238dc801caa63b12b",
+      "header": "4e45531a080012080000700700000001"
+    }
+  ]
+}

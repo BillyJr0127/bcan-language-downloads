@@ -1,0 +1,39 @@
+{
+  "game_id": "getsufuu-maden-jp",
+  "platform": "fc",
+  "title": "月風魔傳",
+  "engine_revision": 143,
+  "rom": "889f2db8bba0243196cf6f9b2cd2cdceb3ec1d6330d30f7e30654f00fff30cc7",
+  "roms": [
+    "889f2db8bba0243196cf6f9b2cd2cdceb3ec1d6330d30f7e30654f00fff30cc7"
+  ],
+  "version": "a454f993eaaf02d8",
+  "languages": [
+    "tw"
+  ],
+  "records": 156,
+  "segments": 156,
+  "tag": "pack-getsufuu-maden-jp-889f2db8-a454f993eaaf02d8",
+  "url": "https://github.com/BillyJr0127/bcan-language-downloads/releases/download/pack-getsufuu-maden-jp-889f2db8-a454f993eaaf02d8/getsufuu-maden-jp-889f2db8-a454f993eaaf02d8.zip",
+  "bytes": 45024,
+  "sha256": "b9ca056d0a6b01bc85cd73db259c32d881f68281f9b04265586a0176a18afe79",
+  "files": [
+    {
+      "name": "getsufuu-maden-jp.system.bcan",
+      "bytes": 307919,
+      "sha256": "eeee15303ba6d0f79490b8a8ad0f2e47a9f0db2e2f2a2d3fabdc3118e4828b38"
+    },
+    {
+      "name": "getsufuu-maden-jp.tw.txt",
+      "bytes": 4597,
+      "sha256": "7c622831884b506215e24886b73607af83386940bb01b2457167e92534a090f3"
+    }
+  ],
+  "notes": "統一平台分類與獨立下載；沿用目前已驗證的正式中文資料。",
+  "famicom": [
+    {
+      "rom": "889f2db8bba0243196cf6f9b2cd2cdceb3ec1d6330d30f7e30654f00fff30cc7",
+      "header": "4e45531a081070100000000000000000"
+    }
+  ]
+}
